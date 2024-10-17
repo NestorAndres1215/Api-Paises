@@ -1,0 +1,1559 @@
+[
+    {
+        "nombre": "Afganistán",
+        "codigoDeLlamada": "+93",
+        "capital": "Kabul",
+        "ciudadesImportantes": [
+            "Kabul",
+            "Kandahar",
+            "Herat",
+            "Mazar-i-Sharif",
+            "Jalalabad"
+        ],
+        "region": "Asia",
+        "subRegion": "Asia Central",
+        "poblacion": 39835428,
+        "gentilicio": "afgano/a",
+        "zonaHoraria": "UTC+4:30",
+        "fronteras": [
+            "Pakistán",
+            "Irán",
+            "Turkmenistán",
+            "Uzbekistán",
+            "Tayikistán"
+        ],
+        "nombreNativo": "افغانستان",
+        "codigoNumerico": "004",
+        "moneda": "Afgani afgano",
+        "idiomas": [
+            "Pastún",
+            "Dari"
+        ],
+        "traducciones": {
+            "Pastún": "افغانستان",
+            "Inglés": "Afghanistan",
+            "Francés": "Afghanistan",
+            "Alemán": "Afghanistan"
+        },
+        "independencia": {
+            "fecha": "19 de agosto de 1919",
+            "detalles": "Afganistán declaró su independencia del Imperio Británico tras la Tercera Guerra Anglo-Afgana."
+        },
+        "presidente": {
+            "nombre": "Hibatullah Akhundzada",
+            "fechaDeAsunción": "2021",
+            "partido": "Talibán"
+        },
+        "deporte": {
+            "deportePopular": "Cricket",
+            "detalles": "El cricket es el deporte más popular en Afganistán, con una creciente afición y una selección nacional que ha competido en varias Copas Mundiales."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg/255px-Flag_of_Afghanistan_%282013%E2%80%932021%29.svg.png",
+            "descripcion": "Bandera de Afganistán, con tres franjas verticales de negro, rojo y verde, y el emblema nacional en el centro."
+        }
+    },
+    {
+        "nombre": "Albania",
+        "codigoDeLlamada": "+355",
+        "capital": "Tirana",
+        "ciudadesImportantes": [
+            "Tirana",
+            "Durrës",
+            "Vlorë",
+            "Shkodër",
+            "Fier"
+        ],
+        "region": "Europa",
+        "subRegion": "Europa del Sur",
+        "poblacion": 2877797,
+        "gentilicio": "albanés/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": [
+            "Montenegro",
+            "Kosovo",
+            "Macedonia del Norte",
+            "Grecia"
+        ],
+        "nombreNativo": "Shqipëri",
+        "codigoNumerico": "008",
+        "moneda": "Lek albanés",
+        "idiomas": [
+            "Albanés"
+        ],
+        "traducciones": {
+            "Albanés": "Shqipëri",
+            "Inglés": "Albania",
+            "Francés": "Albanie",
+            "Alemán": "Albanien"
+        },
+        "independencia": {
+            "fecha": "28 de noviembre de 1912",
+            "detalles": "Albania declaró su independencia del Imperio Otomano."
+        },
+        "presidente": {
+            "nombre": "Bajram Begaj",
+            "fechaDeAsunción": "2022",
+            "partido": "Partido Socialista de Albania"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Albania, con una fuerte afición por la selección nacional."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+            "descripcion": "Bandera de Albania, con un fondo rojo y un águila negra de doble cabeza en el centro."
+        }
+    },
+    {
+        "nombre": "Alemania",
+        "codigoDeLlamada": "+49",
+        "capital": "Berlín",
+        "ciudadesImportantes": [
+            "Berlín",
+            "Múnich",
+            "Hamburgo",
+            "Colonia",
+            "Fráncfort"
+        ],
+        "region": "Europa",
+        "subRegion": "Europa Occidental",
+        "poblacion": 83783942,
+        "gentilicio": "alemán/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": [
+            "Dinamarca",
+            "Polonia",
+            "República Checa",
+            "Austria",
+            "Suiza",
+            "Francia",
+            "Luxemburgo",
+            "Bélgica",
+            "Países Bajos"
+        ],
+        "nombreNativo": "Deutschland",
+        "codigoNumerico": "276",
+        "moneda": "Euro",
+        "idiomas": [
+            "Alemán"
+        ],
+        "traducciones": {
+            "Alemán": "Deutschland",
+            "Inglés": "Germany",
+            "Francés": "Allemagne",
+            "Español": "Alemania"
+        },
+        "independencia": {
+            "fecha": "No hay una fecha única; la unificación se completó el 3 de octubre de 1990.",
+            "detalles": "Alemania se unificó tras la caída del Muro de Berlín y el colapso de la República Democrática Alemana."
+        },
+        "presidente": {
+            "nombre": "Frank-Walter Steinmeier",
+            "fechaDeAsunción": "2017",
+            "partido": "Partido Socialdemócrata de Alemania"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Alemania, con una rica historia y éxito en competiciones internacionales."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+            "descripcion": "Bandera de Alemania, con tres franjas horizontales de negro, rojo y dorado."
+        }
+    },
+    {
+        "nombre": "Andorra",
+        "codigoDeLlamada": "+376",
+        "capital": "Andorra la Vieja",
+        "ciudadesImportantes": [
+            "Andorra la Vieja",
+            "Escaldes-Engordany",
+            "Encamp",
+            "Les Escaldes",
+            "La Massana"
+        ],
+        "region": "Europa",
+        "subRegion": "Europa del Sur",
+        "poblacion": 77265,
+        "gentilicio": "andorrano/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": [
+            "Francia",
+            "España"
+        ],
+        "nombreNativo": "Andorra",
+        "codigoNumerico": "020",
+        "moneda": "Euro",
+        "idiomas": [
+            "Catalán"
+        ],
+        "traducciones": {
+            "Catalán": "Andorra",
+            "Inglés": "Andorra",
+            "Francés": "Andorre",
+            "Alemán": "Andorra"
+        },
+        "independencia": {
+            "fecha": "No hay una fecha única de independencia; Andorra tiene un estatus de coprincipado desde la Edad Media.",
+            "detalles": "Andorra se estableció como un coprincipado bajo el control de dos copríncipes: el Presidente de Francia y el Obispo de Urgel (España)."
+        },
+        "presidente": {
+            "nombre": "Xavier Espot Zamora",
+            "fechaDeAsunción": "2019",
+            "partido": "Democràcia Andorrana"
+        },
+        "deporte": {
+            "deportePopular": "Esquí",
+            "detalles": "El esquí es un deporte popular en Andorra, con numerosas estaciones de esquí en el Pirineo."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+            "descripcion": "Bandera de Andorra, con tres franjas verticales de azul, amarillo y rojo, y el escudo en el centro."
+        }
+    },
+    {
+        "nombre": "Angola",
+        "codigoDeLlamada": "+244",
+        "capital": "Luanda",
+        "ciudadesImportantes": [
+            "Luanda",
+            "Ndalatando",
+            "Huambo",
+            "Benguela",
+            "Lubango"
+        ],
+        "region": "África",
+        "subRegion": "África Central",
+        "poblacion": 32866272,
+        "gentilicio": "angoleño/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": [
+            "Namibia",
+            "Zambia",
+            "República Democrática del Congo"
+        ],
+        "nombreNativo": "Angola",
+        "codigoNumerico": "024",
+        "moneda": "Kwanza angoleño",
+        "idiomas": [
+            "Portugués"
+        ],
+        "traducciones": {
+            "Portugués": "Angola",
+            "Inglés": "Angola",
+            "Francés": "Angola",
+            "Alemán": "Angola"
+        },
+        "independencia": {
+            "fecha": "11 de noviembre de 1975",
+            "detalles": "Angola obtuvo su independencia de Portugal tras una guerra de liberación."
+        },
+        "presidente": {
+            "nombre": "João Lourenço",
+            "fechaDeAsunción": "2017",
+            "partido": "Movimiento Popular de Liberación de Angola"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Angola, con una fuerte cultura futbolística y una selección nacional activa."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
+            "descripcion": "Bandera de Angola, con dos franjas horizontales roja y negra, y un emblema amarillento con una estrella, una rueda dentada y una hoz y un martillo."
+        }
+    },
+    {
+        "nombre": "Antigua y Barbuda",
+        "codigoDeLlamada": "+1-268",
+        "capital": "Saint John's",
+        "ciudadesImportantes": [
+            "Saint John's",
+            "All Saints",
+            "English Harbour",
+            "Liberta",
+            "Sweets"
+        ],
+        "region": "América",
+        "subRegion": "Caribe",
+        "poblacion": 98228,
+        "gentilicio": "antiguano/a",
+        "zonaHoraria": "UTC-4",
+        "fronteras": [],
+        "nombreNativo": "Antigua and Barbuda",
+        "codigoNumerico": "028",
+        "moneda": "Dólar del Caribe Oriental",
+        "idiomas": [
+            "Inglés"
+        ],
+        "traducciones": {
+            "Inglés": "Antigua and Barbuda",
+            "Francés": "Antigua-et-Barbuda",
+            "Alemán": "Antigua und Barbuda"
+        },
+        "independencia": {
+            "fecha": "1 de noviembre de 1981",
+            "detalles": "Antigua y Barbuda se independizó del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Gaston Browne",
+            "fechaDeAsunción": "2014",
+            "partido": "Partido Laborista de Antigua y Barbuda"
+        },
+        "deporte": {
+            "deportePopular": "Cricket",
+            "detalles": "El cricket es uno de los deportes más populares en Antigua y Barbuda, con una rica historia y éxito en competiciones internacionales."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/800px-Flag_of_Antigua_and_Barbuda.svg.png",
+            "descripcion": "Bandera de Antigua y Barbuda, con un triángulo rojo, un fondo negro, y un triángulo amarillo, que representa el sol."
+        }
+    },
+    {
+        "nombre": "Arabia Saudita",
+        "codigoDeLlamada": "+966",
+        "capital": "Riad",
+        "ciudadesImportantes": [
+            "Riad",
+            "Yeda",
+            "Dammam",
+            "Mecca",
+            "Medina"
+        ],
+        "region": "Asia",
+        "subRegion": "Asia Occidental",
+        "poblacion": 34813867,
+        "gentilicio": "saudí",
+        "zonaHoraria": "UTC+3",
+        "fronteras": [
+            "Jordania",
+            "Irak",
+            "Kuwait",
+            "Catar",
+            "Emiratos Árabes Unidos",
+            "Omán",
+            "Yemen"
+        ],
+        "nombreNativo": "المملكة العربية السعودية",
+        "codigoNumerico": "682",
+        "moneda": "Riyal saudí",
+        "idiomas": [
+            "Árabe"
+        ],
+        "traducciones": {
+            "Árabe": "المملكة العربية السعودية",
+            "Inglés": "Saudi Arabia",
+            "Francés": "Arabie Saoudite",
+            "Alemán": "Saudi-Arabien"
+        },
+        "independencia": {
+            "fecha": "23 de septiembre de 1932",
+            "detalles": "Arabia Saudita fue unificada por el rey Abdulaziz Ibn Saud."
+        },
+        "presidente": {
+            "nombre": "Salman bin Abdulaziz Al Saud",
+            "fechaDeAsunción": "2015",
+            "partido": "No partidista (monarquía)"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Arabia Saudita, con una liga activa y un equipo nacional competitivo."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+            "descripcion": "Bandera de Arabia Saudita, con un fondo verde y una inscripción en árabe que dice 'No hay más dios que Alá, y Muhammad es su mensajero', junto con una espada."
+        }
+    },
+    {
+        "nombre": "Argelia",
+        "codigoDeLlamada": "+213",
+        "capital": "Argel",
+        "ciudadesImportantes": [
+            "Argel",
+            "Orán",
+            "Constantina",
+            "Annaba",
+            "Blida"
+        ],
+        "region": "África",
+        "subRegion": "África del Norte",
+        "poblacion": 43851044,
+        "gentilicio": "argelino/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": [
+            "Marruecos",
+            "Mauritania",
+            "Malí",
+            "Níger",
+            "Libia",
+            "Túnez"
+        ],
+        "nombreNativo": "الجزائر",
+        "codigoNumerico": "012",
+        "moneda": "Dinar argelino",
+        "idiomas": [
+            "Árabe",
+            "Francés"
+        ],
+        "traducciones": {
+            "Árabe": "الجزائر",
+            "Inglés": "Algeria",
+            "Francés": "Algérie",
+            "Alemán": "Algerien"
+        },
+        "independencia": {
+            "fecha": "5 de julio de 1962",
+            "detalles": "Argelia obtuvo su independencia de Francia tras una larga guerra de liberación."
+        },
+        "presidente": {
+            "nombre": "Abdelmadjid Tebboune",
+            "fechaDeAsunción": "2019",
+            "partido": "Movimiento de la Sociedad por la Paz"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Argelia, con una fuerte liga nacional y una selección nacional exitosa."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/800px-Flag_of_Algeria.svg.png",
+            "descripcion": "Bandera de Argelia, con dos franjas verticales verdes y blancas y una estrella y una media luna rojas."
+        }
+    },
+    {
+        "nombre": "Argentina",
+        "codigoDeLlamada": "+54",
+        "capital": "Buenos Aires",
+        "ciudadesImportantes": [
+            "Buenos Aires",
+            "Córdoba",
+            "Rosario",
+            "Mendoza",
+            "La Plata"
+        ],
+        "region": "América del Sur",
+        "subRegion": "América del Sur",
+        "poblacion": 45195777,
+        "gentilicio": "argentino/a",
+        "zonaHoraria": "UTC-3",
+        "fronteras": [
+            "Bolivia",
+            "Paraguay",
+            "Brasil",
+            "Uruguay",
+            "Chile"
+        ],
+        "nombreNativo": "República Argentina",
+        "codigoNumerico": "032",
+        "moneda": "Peso argentino",
+        "idiomas": [
+            "Español"
+        ],
+        "traducciones": {
+            "Español": "República Argentina",
+            "Inglés": "Argentina",
+            "Francés": "Argentine",
+            "Alemán": "Argentinien"
+        },
+        "independencia": {
+            "fecha": "9 de julio de 1816",
+            "detalles": "Argentina declaró su independencia de España."
+        },
+        "presidente": {
+            "nombre": "Javier Milei",
+            "fechaDeAsunción": "2023",
+            "partido": "La Libertad Avanza"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Argentina, famoso por su liga y selección nacional que ha ganado múltiples Copas del Mundo."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+            "descripcion": "Bandera de Argentina, con tres franjas horizontales: celeste, blanca y celeste, y un sol amarillo en el centro."
+        }
+    },
+    {
+        "nombre": "Australia",
+        "codigoDeLlamada": "+61",
+        "capital": "Camberra",
+        "ciudadesImportantes": [
+            "Sídney",
+            "Melbourne",
+            "Brisbane",
+            "Perth",
+            "Adelaida"
+        ],
+        "region": "Oceanía",
+        "subRegion": "Oceanía",
+        "poblacion": 25687041,
+        "gentilicio": "australiano/a",
+        "zonaHoraria": "UTC+10",
+        "fronteras": [],
+        "nombreNativo": "Australia",
+        "codigoNumerico": "036",
+        "moneda": "Dólar australiano",
+        "idiomas": [
+            "Inglés"
+        ],
+        "traducciones": {
+            "Inglés": "Australia",
+            "Francés": "Australie",
+            "Alemán": "Australien"
+        },
+        "independencia": {
+            "fecha": "1 de enero de 1901",
+            "detalles": "Australia se convirtió en una federación independiente dentro del Imperio Británico."
+        },
+        "presidente": {
+            "nombre": "Anthony Albanese",
+            "fechaDeAsunción": "2022",
+            "partido": "Partido Laborista Australiano"
+        },
+        "deporte": {
+            "deportePopular": "Rugby",
+            "detalles": "El rugby y el cricket son deportes muy populares en Australia, con una cultura deportiva fuerte."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+            "descripcion": "Bandera de Australia, con una unión de la bandera británica y una gran estrella blanca y cinco estrellas del Cruz del Sur."
+        }
+    },
+    {
+        "nombre": "Austria",
+        "codigoDeLlamada": "+43",
+        "capital": "Viena",
+        "ciudadesImportantes": [
+            "Viena",
+            "Graz",
+            "Linz",
+            "Salzburgo",
+            "Innsbruck"
+        ],
+        "region": "Europa",
+        "subRegion": "Europa Central",
+        "poblacion": 8917205,
+        "gentilicio": "austriaco/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": [
+            "Alemania",
+            "República Checa",
+            "Eslovaquia",
+            "Hungría",
+            "Eslovenia",
+            "Italia",
+            "Suiza",
+            "Liechtenstein"
+        ],
+        "nombreNativo": "Österreich",
+        "codigoNumerico": "040",
+        "moneda": "Euro",
+        "idiomas": [
+            "Alemán"
+        ],
+        "traducciones": {
+            "Alemán": "Österreich",
+            "Inglés": "Austria",
+            "Francés": "Autriche"
+        },
+        "independencia": {
+            "fecha": "15 de mayo de 1955",
+            "detalles": "Austria recuperó su independencia tras la Segunda Guerra Mundial con la firma del Tratado del Estado Austriaco."
+        },
+        "presidente": {
+            "nombre": "Alexander Van der Bellen",
+            "fechaDeAsunción": "2017",
+            "partido": "Los Verdes"
+        },
+        "deporte": {
+            "deportePopular": "Esquí",
+            "detalles": "El esquí es uno de los deportes más populares en Austria, con numerosas estaciones de esquí en los Alpes."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/800px-Flag_of_Austria.svg.png",
+            "descripcion": "Bandera de Austria, con tres franjas horizontales rojas, blancas y rojas."
+        }
+    },
+    {
+        "nombre": "Azerbaiyán",
+        "codigoDeLlamada": "+994",
+        "capital": "Bakú",
+        "ciudadesImportantes": [
+            "Bakú",
+            "Ganja",
+            "Sumqayit",
+            "Lankaran",
+            "Mingachevir"
+        ],
+        "region": "Asia",
+        "subRegion": "Asia Occidental",
+        "poblacion": 10139177,
+        "gentilicio": "azerbaiyano/a",
+        "zonaHoraria": "UTC+4",
+        "fronteras": [
+            "Rusia",
+            "Georgia",
+            "Armenia",
+            "Irán"
+        ],
+        "nombreNativo": "Azərbaycan",
+        "codigoNumerico": "031",
+        "moneda": "Manat azerbaiyano",
+        "idiomas": [
+            "Azerbaiyano"
+        ],
+        "traducciones": {
+            "Azerbaiyano": "Azərbaycan",
+            "Inglés": "Azerbaijan",
+            "Francés": "Azerbaïdjan",
+            "Alemán": "Aserbaidschan"
+        },
+        "independencia": {
+            "fecha": "30 de agosto de 1991",
+            "detalles": "Azerbaiyán declaró su independencia de la Unión Soviética."
+        },
+        "presidente": {
+            "nombre": "Ilham Aliyev",
+            "fechaDeAsunción": "2003",
+            "partido": "Partido Nuevo Azerbaiyano"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Azerbaiyán, con un campeonato nacional activo."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+            "descripcion": "Bandera de Azerbaiyán, con tres franjas horizontales: azul, rojo y verde, y un creciente y estrella en el centro."
+        }
+    },
+    {
+        "nombre": "Bahamas",
+        "codigoDeLlamada": "+1-242",
+        "capital": "Nasáu",
+        "ciudadesImportantes": [
+            "Nasáu",
+            "Freeport",
+            "West End",
+            "Marsh Harbour",
+            "Harbour Island"
+        ],
+        "region": "América",
+        "subRegion": "Caribe",
+        "poblacion": 402145,
+        "gentilicio": "bahameño/a",
+        "zonaHoraria": "UTC-5",
+        "fronteras": [],
+        "nombreNativo": "Commonwealth of the Bahamas",
+        "codigoNumerico": "044",
+        "moneda": "Dólar bahameño",
+        "idiomas": [
+            "Inglés"
+        ],
+        "traducciones": {
+            "Inglés": "Bahamas",
+            "Francés": "Bahamas",
+            "Alemán": "Bahamas"
+        },
+        "independencia": {
+            "fecha": "10 de julio de 1973",
+            "detalles": "Las Bahamas obtuvieron su independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Perry Christie",
+            "fechaDeAsunción": "2012",
+            "partido": "Partido Liberal Progresista"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol y el baloncesto son populares, además de los eventos de atletismo."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/1280px-Flag_of_the_Bahamas.svg.png",
+            "descripcion": "Bandera de las Bahamas, con tres franjas horizontales: azul, dorada y negra."
+        }
+    },
+    {
+        "nombre": "Bangladés",
+        "codigoDeLlamada": "+880",
+        "capital": "Dhaka",
+        "ciudadesImportantes": [
+            "Dhaka",
+            "Chittagong",
+            "Khulna",
+            "Rajshahi",
+            "Sylhet"
+        ],
+        "region": "Asia",
+        "subRegion": "Asia del Sur",
+        "poblacion": 166303498,
+        "gentilicio": "bangladesí",
+        "zonaHoraria": "UTC+6",
+        "fronteras": [
+            "India",
+            "Birmania"
+        ],
+        "nombreNativo": "বাংলাদেশ",
+        "codigoNumerico": "050",
+        "moneda": "Taka bangladesí",
+        "idiomas": [
+            "Bengalí"
+        ],
+        "traducciones": {
+            "Bengalí": "বাংলাদেশ",
+            "Inglés": "Bangladesh",
+            "Francés": "Bangladesh",
+            "Alemán": "Bangladesch"
+        },
+        "independencia": {
+            "fecha": "26 de marzo de 1971",
+            "detalles": "Bangladés declaró su independencia de Pakistán tras una guerra de liberación."
+        },
+        "presidente": {
+            "nombre": "Mohammad Abdul Hamid",
+            "fechaDeAsunción": "2013",
+            "partido": "Partido Awami"
+        },
+        "deporte": {
+            "deportePopular": "Cricket",
+            "detalles": "El cricket es el deporte más popular en Bangladés, con una gran afición y éxitos en competencias internacionales."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
+            "descripcion": "Bandera de Bangladés, con un fondo verde y un círculo rojo en el centro."
+        }
+    },
+    {
+        "nombre": "Barbados",
+        "codigoDeLlamada": "+1-246",
+        "capital": "Bridgetown",
+        "ciudadesImportantes": [
+            "Bridgetown",
+            "Speightstown",
+            "Oistins",
+            "Holetown",
+            "Bathsheba"
+        ],
+        "region": "América",
+        "subRegion": "Caribe",
+        "poblacion": 287375,
+        "gentilicio": "barbadeño/a",
+        "zonaHoraria": "UTC-4",
+        "fronteras": [],
+        "nombreNativo": "Barbados",
+        "codigoNumerico": "052",
+        "moneda": "Dólar de Barbados",
+        "idiomas": [
+            "Inglés"
+        ],
+        "traducciones": {
+            "Inglés": "Barbados",
+            "Francés": "Barbade",
+            "Alemán": "Barbados"
+        },
+        "independencia": {
+            "fecha": "30 de noviembre de 1966",
+            "detalles": "Barbados obtuvo su independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Sandra Mason",
+            "fechaDeAsunción": "2018",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Cricket",
+            "detalles": "El cricket es el deporte más popular en Barbados, con una rica tradición y muchos jugadores destacados."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg",
+            "descripcion": "Bandera de Barbados, con tres franjas verticales: azul, dorada y un tridente negro en el centro."
+        }
+    },
+    {
+        "nombre": "Baréin",
+        "codigoDeLlamada": "+973",
+        "capital": "Manama",
+        "ciudadesImportantes": [
+            "Manama",
+            "Muharraq",
+            "Riffa",
+            "Sitra",
+            "Busaiteen"
+        ],
+        "region": "Asia",
+        "subRegion": "Asia Occidental",
+        "poblacion": 1701575,
+        "gentilicio": "bareiní",
+        "zonaHoraria": "UTC+3",
+        "fronteras": [],
+        "nombreNativo": "مملكة البحرين",
+        "codigoNumerico": "048",
+        "moneda": "Dinar bareiní",
+        "idiomas": [
+            "Árabe"
+        ],
+        "traducciones": {
+            "Árabe": "مملكة البحرين",
+            "Inglés": "Bahrain",
+            "Francés": "Bahrain",
+            "Alemán": "Bahrain"
+        },
+        "independencia": {
+            "fecha": "15 de agosto de 1971",
+            "detalles": "Baréin se independizó del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Hamad bin Isa Al Khalifa",
+            "fechaDeAsunción": "1999",
+            "partido": "No partidista (monarquía)"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Baréin, con una liga activa y un equipo nacional que compite en torneos internacionales."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1024px-Flag_of_Bahrain.svg.png",
+            "descripcion": "Bandera de Baréin, con un fondo rojo y cinco puntas blancas que representan las cinco oraciones del Islam."
+        }
+    },
+    {
+        "nombre": "Bélgica",
+        "codigoDeLlamada": "+32",
+        "capital": "Bruselas",
+        "ciudadesImportantes": [
+            "Bruselas",
+            "Amberes",
+            "Gante",
+            "Brujas",
+            "Namur"
+        ],
+        "region": "Europa",
+        "subRegion": "Europa Occidental",
+        "poblacion": 11589623,
+        "gentilicio": "belga",
+        "zonaHoraria": "UTC+1",
+        "fronteras": [
+            "Francia",
+            "Alemania",
+            "Luxemburgo",
+            "Países Bajos"
+        ],
+        "nombreNativo": "België / Belgique / Belgien",
+        "codigoNumerico": "056",
+        "moneda": "Euro",
+        "idiomas": [
+            "Neerlandés",
+            "Francés",
+            "Alemán"
+        ],
+        "traducciones": {
+            "Neerlandés": "België",
+            "Francés": "Belgique",
+            "Alemán": "Belgien"
+        },
+        "independencia": {
+            "fecha": "4 de octubre de 1830",
+            "detalles": "Bélgica se independizó de los Países Bajos."
+        },
+        "presidente": {
+            "nombre": "Alexander De Croo",
+            "fechaDeAsunción": "2020",
+            "partido": "Open VLD"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Bélgica, con una liga profesional y un equipo nacional competitivo."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/800px-Flag_of_Belgium.svg.png",
+            "descripcion": "Bandera de Bélgica, con tres franjas verticales: negro, amarillo y rojo."
+        }
+    },
+    {
+        "nombre": "Belice",
+        "codigoDeLlamada": "+501",
+        "capital": "Belmopán",
+        "ciudadesImportantes": [
+            "Belmopán",
+            "Ciudad de Belice",
+            "San Pedro",
+            "Corozal",
+            "Orange Walk"
+        ],
+        "region": "América",
+        "subRegion": "América Central",
+        "poblacion": 419199,
+        "gentilicio": "beliceño/a",
+        "zonaHoraria": "UTC-6",
+        "fronteras": [
+            "México",
+            "Guatemala"
+        ],
+        "nombreNativo": "Belize",
+        "codigoNumerico": "084",
+        "moneda": "Dólar beliceño",
+        "idiomas": [
+            "Inglés",
+            "Español",
+            "Criollo"
+        ],
+        "traducciones": {
+            "Inglés": "Belize",
+            "Francés": "Belize",
+            "Alemán": "Belize"
+        },
+        "independencia": {
+            "fecha": "21 de septiembre de 1981",
+            "detalles": "Belice se independizó del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Johnny Briceño",
+            "fechaDeAsunción": "2020",
+            "partido": "Partido Unido del Pueblo"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Belice, con una liga profesional activa."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/1024px-Flag_of_Belize.svg.png",
+            "descripcion": "Bandera de Belice, con un escudo de armas en el centro y franjas azules y rojas."
+        }
+    },
+    {
+        "nombre": "Benín",
+        "codigoDeLlamada": "+229",
+        "capital": "Porto-Novo",
+        "ciudadesImportantes": [
+            "Porto-Novo",
+            "Cotonú",
+            "Abomey",
+            "Ouidah",
+            "Parakou"
+        ],
+        "region": "África",
+        "subRegion": "África Occidental",
+        "poblacion": 12632132,
+        "gentilicio": "beninés/beninesa",
+        "zonaHoraria": "UTC+1",
+        "fronteras": [
+            "Togo",
+            "Nigeria",
+            "Burkina Faso"
+        ],
+        "nombreNativo": "Bénin",
+        "codigoNumerico": "204",
+        "moneda": "Franco CFA",
+        "idiomas": [
+            "Francés"
+        ],
+        "traducciones": {
+            "Francés": "Bénin",
+            "Inglés": "Benin",
+            "Alemán": "Benin"
+        },
+        "independencia": {
+            "fecha": "1 de agosto de 1960",
+            "detalles": "Benín se independizó de Francia."
+        },
+        "presidente": {
+            "nombre": "Patrice Talon",
+            "fechaDeAsunción": "2016",
+            "partido": "Benin Progress"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Benín, con una liga nacional activa."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/800px-Flag_of_Benin.svg.png",
+            "descripcion": "Bandera de Benín, con dos franjas horizontales verde y rojo y una franja vertical amarilla."
+        }
+    },
+    {
+        "nombre": "Bielorrusia",
+        "codigoDeLlamada": "+375",
+        "capital": "Minsk",
+        "ciudadesImportantes": [
+            "Minsk",
+            "Brest",
+            "Gomel",
+            "Mogilev",
+            "Vitebsk"
+        ],
+        "region": "Europa",
+        "subRegion": "Europa del Este",
+        "poblacion": 9449323,
+        "gentilicio": "bielorruso/a",
+        "zonaHoraria": "UTC+3",
+        "fronteras": [
+            "Polonia",
+            "Lituania",
+            "Letonia",
+            "Rusia",
+            "Ucrania"
+        ],
+        "nombreNativo": "Беларусь",
+        "codigoNumerico": "112",
+        "moneda": "Rublo bielorruso",
+        "idiomas": [
+            "Bielorruso",
+            "Ruso"
+        ],
+        "traducciones": {
+            "Bielorruso": "Беларусь",
+            "Inglés": "Belarus",
+            "Francés": "Biélorussie",
+            "Alemán": "Weißrussland"
+        },
+        "independencia": {
+            "fecha": "25 de agosto de 1991",
+            "detalles": "Bielorrusia declaró su independencia de la Unión Soviética."
+        },
+        "presidente": {
+            "nombre": "Alexander Lukashenko",
+            "fechaDeAsunción": "1994",
+            "partido": "Partido de la Unidad Nacional"
+        },
+        "deporte": {
+            "deportePopular": "Hockey sobre hielo",
+            "detalles": "El hockey sobre hielo es uno de los deportes más populares en Bielorrusia, con un equipo nacional fuerte."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/1280px-Flag_of_Belarus.svg.png",
+            "descripcion": "Bandera de Bielorrusia, con una franja roja en la parte superior y una verde en la parte inferior, con un diseño tradicional bielorruso en el lado del asta."
+        }
+    },
+    {
+        "nombre": "Birmania (Myanmar)",
+        "codigoDeLlamada": "+95",
+        "capital": "Naipyidó",
+        "ciudadesImportantes": ["Yangón", "Mandalay", "Naypyidó", "Bago", "Pathein"],
+        "region": "Asia",
+        "subRegion": "Sudeste Asiático",
+        "poblacion": 54339766,
+        "gentilicio": "birmano/a o myanmareño/a",
+        "zonaHoraria": "UTC+6:30",
+        "fronteras": ["Bangladesh", "India", "China", "Laos", "Tailandia"],
+        "nombreNativo": "မြန်မာ",
+        "codigoNumerico": "104",
+        "moneda": "Kyat",
+        "idiomas": ["Birmano"],
+        "traducciones": {
+            "Inglés": "Myanmar",
+            "Francés": "Birmanie",
+            "Alemán": "Myanmar"
+        },
+        "independencia": {
+            "fecha": "4 de enero de 1948",
+            "detalles": "Myanmar se independizó del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Myint Swe (interino)",
+            "fechaDeAsunción": "2021",
+            "partido": "Consejo Administrativo del Estado"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Myanmar, con una creciente liga profesional."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/800px-Flag_of_Myanmar.svg.png",
+            "descripcion": "Bandera de Birmania con tres franjas horizontales: amarillo, verde y rojo, y una estrella blanca en el centro."
+        }
+    },
+    {
+        "nombre": "Bolivia",
+        "codigoDeLlamada": "+591",
+        "capital": "Sucre (constitucional) / La Paz (administrativa)",
+        "ciudadesImportantes": ["La Paz", "Sucre", "Santa Cruz de la Sierra", "Cochabamba", "El Alto"],
+        "region": "América",
+        "subRegion": "América del Sur",
+        "poblacion": 11839962,
+        "gentilicio": "boliviano/a",
+        "zonaHoraria": "UTC-4",
+        "fronteras": ["Brasil", "Paraguay", "Argentina", "Chile", "Perú"],
+        "nombreNativo": "Bolivia",
+        "codigoNumerico": "068",
+        "moneda": "Boliviano",
+        "idiomas": ["Español", "Quechua", "Aymara", "Guaraní", "Otros indígenas"],
+        "traducciones": {
+            "Inglés": "Bolivia",
+            "Francés": "Bolivie",
+            "Alemán": "Bolivien"
+        },
+        "independencia": {
+            "fecha": "6 de agosto de 1825",
+            "detalles": "Bolivia se independizó de España."
+        },
+        "presidente": {
+            "nombre": "Luis Arce",
+            "fechaDeAsunción": "2020",
+            "partido": "Movimiento al Socialismo"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Bolivia, con una liga nacional competitiva."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/800px-Flag_of_Bolivia.svg.png",
+            "descripcion": "Bandera de Bolivia con tres franjas horizontales: rojo, amarillo y verde, y el escudo de armas en el centro."
+        }
+    },
+    {
+        "nombre": "Bosnia y Herzegovina",
+        "codigoDeLlamada": "+387",
+        "capital": "Sarajevo",
+        "ciudadesImportantes": ["Sarajevo", "Banja Luka", "Mostar", "Tuzla", "Zenica"],
+        "region": "Europa",
+        "subRegion": "Europa del Sudeste",
+        "poblacion": 3280819,
+        "gentilicio": "bosnio/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Croacia", "Serbia", "Montenegro"],
+        "nombreNativo": "Bosna i Hercegovina",
+        "codigoNumerico": "070",
+        "moneda": "Marco convertible",
+        "idiomas": ["Bosnio", "Croata", "Serbio"],
+        "traducciones": {
+            "Inglés": "Bosnia and Herzegovina",
+            "Francés": "Bosnie-Herzégovine",
+            "Alemán": "Bosnien und Herzegowina"
+        },
+        "independencia": {
+            "fecha": "1 de marzo de 1992",
+            "detalles": "Bosnia y Herzegovina se independizó de Yugoslavia."
+        },
+        "presidente": {
+            "nombre": "Željka Cvijanović (Presidencia rotativa)",
+            "fechaDeAsunción": "2022",
+            "partido": "Unión de Socialdemócratas Independientes"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Bosnia y Herzegovina, con una liga nacional en crecimiento."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1280px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+            "descripcion": "Bandera de Bosnia y Herzegovina con un fondo azul, un triángulo amarillo y una fila de estrellas blancas."
+        }
+    },
+    {
+        "nombre": "Botsuana",
+        "codigoDeLlamada": "+267",
+        "capital": "Gaborone",
+        "ciudadesImportantes": ["Gaborone", "Francistown", "Maun", "Kasane", "Molepolole"],
+        "region": "África",
+        "subRegion": "África Austral",
+        "poblacion": 2351627,
+        "gentilicio": "botsuano/a",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Namibia", "Zimbabue", "Zambia", "Sudáfrica"],
+        "nombreNativo": "Botswana",
+        "codigoNumerico": "072",
+        "moneda": "Pula",
+        "idiomas": ["Inglés", "Setsuana"],
+        "traducciones": {
+            "Inglés": "Botswana",
+            "Francés": "Botswana",
+            "Alemán": "Botswana"
+        },
+        "independencia": {
+            "fecha": "30 de septiembre de 1966",
+            "detalles": "Botsuana se independizó del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Mokgweetsi Masisi",
+            "fechaDeAsunción": "2018",
+            "partido": "Partido Democrático de Botsuana"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Botsuana, con un creciente interés en competiciones internacionales."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/800px-Flag_of_Botswana.svg.png",
+            "descripcion": "Bandera de Botsuana con un fondo azul claro, una franja negra horizontal en el centro, bordeada por dos franjas blancas."
+        }
+    },
+    {
+        "nombre": "Brasil",
+        "codigoDeLlamada": "+55",
+        "capital": "Brasilia",
+        "ciudadesImportantes": ["São Paulo", "Río de Janeiro", "Salvador", "Brasilia", "Fortaleza"],
+        "region": "América",
+        "subRegion": "América del Sur",
+        "poblacion": 214326223,
+        "gentilicio": "brasileño/a",
+        "zonaHoraria": "UTC-3 (horarios variables por regiones)",
+        "fronteras": ["Argentina", "Bolivia", "Colombia", "Guyana", "Paraguay", "Perú", "Surinam", "Uruguay", "Venezuela", "Guayana Francesa"],
+        "nombreNativo": "Brasil",
+        "codigoNumerico": "076",
+        "moneda": "Real",
+        "idiomas": ["Portugués"],
+        "traducciones": {
+            "Inglés": "Brazil",
+            "Francés": "Brésil",
+            "Alemán": "Brasilien"
+        },
+        "independencia": {
+            "fecha": "7 de septiembre de 1822",
+            "detalles": "Brasil se independizó de Portugal."
+        },
+        "presidente": {
+            "nombre": "Luiz Inácio Lula da Silva",
+            "fechaDeAsunción": "2023",
+            "partido": "Partido de los Trabajadores"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Brasil, con una tradición histórica en torneos internacionales."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png",
+            "descripcion": "Bandera de Brasil con un fondo verde, un rombo amarillo y un círculo azul con una banda blanca."
+        }
+    },
+    {
+        "nombre": "Brunéi",
+        "codigoDeLlamada": "+673",
+        "capital": "Bandar Seri Begawan",
+        "ciudadesImportantes": ["Kuala Belait", "Seria", "Tutong", "Bangar"],
+        "region": "Asia",
+        "subRegion": "Sudeste Asiático",
+        "poblacion": 460345,
+        "gentilicio": "bruneano/a",
+        "zonaHoraria": "UTC+8",
+        "fronteras": ["Malasia"],
+        "nombreNativo": "Brunei Darussalam",
+        "codigoNumerico": "096",
+        "moneda": "Dólar de Brunéi",
+        "idiomas": ["Malayo"],
+        "traducciones": {
+            "Inglés": "Brunei",
+            "Francés": "Brunei",
+            "Alemán": "Brunei"
+        },
+        "independencia": {
+            "fecha": "1 de enero de 1984",
+            "detalles": "Brunéi se independizó del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Sultán Hassanal Bolkiah",
+            "fechaDeAsunción": "1967",
+            "partido": "Monarquía absoluta"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Brunéi."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/1280px-Flag_of_Brunei.svg.png",
+            "descripcion": "Bandera de Brunéi con un fondo amarillo, franjas blancas y negras diagonales, y un emblema rojo en el centro."
+        }
+    },
+    {
+        "nombre": "Bulgaria",
+        "codigoDeLlamada": "+359",
+        "capital": "Sofía",
+        "ciudadesImportantes": ["Plovdiv", "Varna", "Burgas", "Ruse"],
+        "region": "Europa",
+        "subRegion": "Europa del Este",
+        "poblacion": 6847871,
+        "gentilicio": "búlgaro/a",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Rumania", "Serbia", "Macedonia del Norte", "Grecia", "Turquía"],
+        "nombreNativo": "България",
+        "codigoNumerico": "100",
+        "moneda": "Lev búlgaro",
+        "idiomas": ["Búlgaro"],
+        "traducciones": {
+            "Inglés": "Bulgaria",
+            "Francés": "Bulgarie",
+            "Alemán": "Bulgarien"
+        },
+        "independencia": {
+            "fecha": "22 de septiembre de 1908",
+            "detalles": "Bulgaria se independizó del Imperio otomano."
+        },
+        "presidente": {
+            "nombre": "Rumen Radev",
+            "fechaDeAsunción": "2017",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Bulgaria, con una liga competitiva y presencia en torneos europeos."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1024px-Flag_of_Bulgaria.svg.png",
+            "descripcion": "Bandera de Bulgaria con tres franjas horizontales: blanca, verde y roja."
+        }
+    },
+    {
+        "nombre": "Burkina Faso",
+        "codigoDeLlamada": "+226",
+        "capital": "Uagadugú",
+        "ciudadesImportantes": ["Bobo-Dioulasso", "Banfora", "Koudougou"],
+        "region": "África",
+        "subRegion": "África Occidental",
+        "poblacion": 22464223,
+        "gentilicio": "burkinés/a",
+        "zonaHoraria": "UTC+0",
+        "fronteras": ["Malí", "Níger", "Benín", "Togo", "Ghana", "Costa de Marfil"],
+        "nombreNativo": "Burkina Faso",
+        "codigoNumerico": "854",
+        "moneda": "Franco CFA de África Occidental",
+        "idiomas": ["Francés"],
+        "traducciones": {
+            "Inglés": "Burkina Faso",
+            "Francés": "Burkina Faso",
+            "Alemán": "Burkina Faso"
+        },
+        "independencia": {
+            "fecha": "5 de agosto de 1960",
+            "detalles": "Burkina Faso se independizó de Francia."
+        },
+        "presidente": {
+            "nombre": "Ibrahim Traoré",
+            "fechaDeAsunción": "2022",
+            "partido": "Liderazgo militar de facto"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Burkina Faso, con una creciente liga local y participación en torneos regionales."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/800px-Flag_of_Burkina_Faso.svg.png",
+            "descripcion": "Bandera de Burkina Faso con dos franjas horizontales: roja y verde, y una estrella amarilla en el centro."
+        }
+    },
+    {
+        "nombre": "Burundi",
+        "codigoDeLlamada": "+257",
+        "capital": "Gitega",
+        "ciudadesImportantes": ["Buyumbura", "Ngozi", "Ruyigi"],
+        "region": "África",
+        "subRegion": "África Oriental",
+        "poblacion": 12626968,
+        "gentilicio": "burundés/a",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Ruanda", "Tanzania", "República Democrática del Congo"],
+        "nombreNativo": "Burundi",
+        "codigoNumerico": "108",
+        "moneda": "Franco de Burundi",
+        "idiomas": ["Kirundi", "Francés", "Inglés"],
+        "traducciones": {
+            "Inglés": "Burundi",
+            "Francés": "Burundi",
+            "Alemán": "Burundi"
+        },
+        "independencia": {
+            "fecha": "1 de julio de 1962",
+            "detalles": "Burundi se independizó de Bélgica."
+        },
+        "presidente": {
+            "nombre": "Évariste Ndayishimiye",
+            "fechaDeAsunción": "2020",
+            "partido": "Consejo Nacional para la Defensa de la Democracia"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Burundi, con una creciente participación en torneos africanos."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/1024px-Flag_of_Burundi.svg.png",
+            "descripcion": "Bandera de Burundi con cruces diagonales blancas, dividiendo la bandera en áreas verdes y rojas, y con tres estrellas rojas en el centro."
+        }
+    },
+    {
+        "nombre": "Bután",
+        "codigoDeLlamada": "+975",
+        "capital": "Timbu",
+        "ciudadesImportantes": ["Phuntsholing", "Paro", "Punakha"],
+        "region": "Asia",
+        "subRegion": "Asia del Sur",
+        "poblacion": 773614,
+        "gentilicio": "butanés/a",
+        "zonaHoraria": "UTC+6",
+        "fronteras": ["China", "India"],
+        "nombreNativo": "འབྲུག་ཡུལ",
+        "codigoNumerico": "064",
+        "moneda": "Ngultrum",
+        "idiomas": ["Dzongkha"],
+        "traducciones": {
+            "Inglés": "Bhutan",
+            "Francés": "Bhoutan",
+            "Alemán": "Bhutan"
+        },
+        "independencia": {
+            "fecha": "17 de diciembre de 1907",
+            "detalles": "Bután ha mantenido su independencia por largo tiempo, aunque en ocasiones fue un estado satélite del Imperio británico."
+        },
+        "presidente": {
+            "nombre": "Jigme Khesar Namgyel Wangchuck",
+            "fechaDeAsunción": "2006",
+            "partido": "Monarquía constitucional"
+        },
+        "deporte": {
+            "deportePopular": "Tiro con arco",
+            "detalles": "El tiro con arco es el deporte nacional de Bután."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/800px-Flag_of_Bhutan.svg.png",
+            "descripcion": "Bandera de Bután dividida diagonalmente con amarillo en la parte superior y naranja en la parte inferior, y un dragón blanco en el centro."
+        }
+    },
+
+    {
+        "nombre": "Cabo Verde",
+        "codigoDeLlamada": "+238",
+        "capital": "Praia",
+        "ciudadesImportantes": ["Mindelo", "Santa Maria", "Assomada", "Espargos"],
+        "region": "África",
+        "subRegion": "África Occidental",
+        "poblacion": 567678,
+        "gentilicio": "caboverdiano/a",
+        "zonaHoraria": "UTC-1",
+        "fronteras": "Es un archipiélago, sin fronteras terrestres.",
+        "nombreNativo": "Cabo Verde",
+        "codigoNumerico": "132",
+        "moneda": "Escudo caboverdiano",
+        "idiomas": ["Portugués", "Criollo caboverdiano"],
+        "traducciones": {
+            "Inglés": "Cape Verde",
+            "Francés": "Cap-Vert",
+            "Alemán": "Kap Verde"
+        },
+        "independencia": {
+            "fecha": "5 de julio de 1975",
+            "detalles": "Cabo Verde se independizó de Portugal."
+        },
+        "presidente": {
+            "nombre": "José Maria Neves",
+            "fechaDeAsunción": "2021",
+            "partido": "Partido Africano para la Independencia de Cabo Verde"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Cabo Verde, con una selección nacional que ha logrado participar en torneos internacionales."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1024px-Flag_of_Cape_Verde.svg.png",
+            "descripcion": "Bandera de Cabo Verde con un fondo azul, una franja horizontal blanca y roja en la parte inferior y diez estrellas amarillas en un círculo."
+        }
+    },
+    {
+        "nombre": "Camboya",
+        "codigoDeLlamada": "+855",
+        "capital": "Nom Pen",
+        "ciudadesImportantes": ["Siem Riep", "Battambang", "Kampong Cham", "Sihanoukville"],
+        "region": "Asia",
+        "subRegion": "Sudeste Asiático",
+        "poblacion": 17190644,
+        "gentilicio": "camboyano/a",
+        "zonaHoraria": "UTC+7",
+        "fronteras": ["Tailandia", "Laos", "Vietnam"],
+        "nombreNativo": "កម្ពុជា",
+        "codigoNumerico": "116",
+        "moneda": "Riel camboyano",
+        "idiomas": ["Jemer"],
+        "traducciones": {
+            "Inglés": "Cambodia",
+            "Francés": "Cambodge",
+            "Alemán": "Kambodscha"
+        },
+        "independencia": {
+            "fecha": "9 de noviembre de 1953",
+            "detalles": "Camboya se independizó de Francia."
+        },
+        "presidente": {
+            "nombre": "Norodom Sihamoni",
+            "fechaDeAsunción": "2004",
+            "partido": "Monarquía constitucional"
+        },
+        "deporte": {
+            "deportePopular": "Voleibol",
+            "detalles": "El voleibol es popular, pero el fútbol está en auge como deporte creciente en Camboya."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/1024px-Flag_of_Cambodia.svg.png",
+            "descripcion": "Bandera de Camboya con tres franjas horizontales: azul en los extremos y roja en el centro, con la imagen de Angkor Wat."
+        }
+    },
+    {
+        "nombre": "Camerún",
+        "codigoDeLlamada": "+237",
+        "capital": "Yaundé",
+        "ciudadesImportantes": ["Douala", "Garoua", "Maroua", "Bafoussam"],
+        "region": "África",
+        "subRegion": "África Central",
+        "poblacion": 27819760,
+        "gentilicio": "camerunés/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Nigeria", "Chad", "República Centroafricana", "Gabón", "Guinea Ecuatorial", "República del Congo"],
+        "nombreNativo": "Cameroun / Cameroon",
+        "codigoNumerico": "120",
+        "moneda": "Franco CFA de África Central",
+        "idiomas": ["Francés", "Inglés"],
+        "traducciones": {
+            "Inglés": "Cameroon",
+            "Francés": "Cameroun",
+            "Alemán": "Kamerun"
+        },
+        "independencia": {
+            "fecha": "1 de enero de 1960",
+            "detalles": "Camerún se independizó de Francia."
+        },
+        "presidente": {
+            "nombre": "Paul Biya",
+            "fechaDeAsunción": "1982",
+            "partido": "Movimiento Democrático del Pueblo Camerunés"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte nacional y más popular en Camerún, con una selección destacada en África."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/800px-Flag_of_Cameroon.svg.png",
+            "descripcion": "Bandera de Camerún con tres franjas verticales: verde, rojo y amarillo, y una estrella amarilla en el centro."
+        }
+    },
+    {
+        "nombre": "Canadá",
+        "codigoDeLlamada": "+1",
+        "capital": "Ottawa",
+        "ciudadesImportantes": ["Toronto", "Vancouver", "Montreal", "Calgary"],
+        "region": "América",
+        "subRegion": "América del Norte",
+        "poblacion": 38388546,
+        "gentilicio": "canadiense",
+        "zonaHoraria": "UTC-3.5 a UTC-8 (variaciones por regiones)",
+        "fronteras": ["Estados Unidos"],
+        "nombreNativo": "Canada",
+        "codigoNumerico": "124",
+        "moneda": "Dólar canadiense",
+        "idiomas": ["Inglés", "Francés"],
+        "traducciones": {
+            "Inglés": "Canada",
+            "Francés": "Canada",
+            "Alemán": "Kanada"
+        },
+        "independencia": {
+            "fecha": "1 de julio de 1867",
+            "detalles": "Canadá se unió como un dominio autónomo del Imperio británico."
+        },
+        "presidente": {
+            "nombre": "Justin Trudeau",
+            "fechaDeAsunción": "2015",
+            "partido": "Partido Liberal"
+        },
+        "deporte": {
+            "deportePopular": "Hockey sobre hielo",
+            "detalles": "El hockey sobre hielo es el deporte nacional y el más popular en Canadá."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/1280px-Flag_of_Canada.svg.png",
+            "descripcion": "Bandera de Canadá con dos franjas rojas en los extremos y una hoja de arce roja en el centro sobre fondo blanco."
+        }
+    }
+
+]
