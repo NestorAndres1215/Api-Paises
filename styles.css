@@ -45,3 +45,30 @@ body {
 .card-body {
     flex-grow: 1; /* Hacer que el cuerpo de la tarjeta ocupe el espacio disponible */
 }
+@media screen and (max-width: 768px) {
+    .modal-content {
+        padding: 15px;
+    }
+    .cardt{
+        height: 710px;
+    }
+    .modal-title {
+        font-size: 1.2rem;
+    }
+
+    .card-body {
+        padding: 10px;
+    }
+
+    .card-body p {
+        font-size: 0.9rem; /* Tamaño de texto más pequeño en pantallas pequeñas */
+    }
+
+    .modal-header {
+        padding: 10px; /* Ajusta el padding en la cabecera para pantallas pequeñas */
+    }
+
+    .close {
+        font-size: 1rem; /* Ajusta el tamaño del botón de cierre */
+    }
+}
