@@ -1554,6 +1554,2909 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/1280px-Flag_of_Canada.svg.png",
             "descripcion": "Bandera de Canadá con dos franjas rojas en los extremos y una hoja de arce roja en el centro sobre fondo blanco."
         }
+    },
+    {
+        "nombre": "Catar",
+        "codigoDeLlamada": "+974",
+        "capital": "Doha",
+        "ciudadesImportantes": ["Al Wakrah", "Al Rayyan", "Umm Salal", "Al Khor"],
+        "region": "Asia",
+        "subRegion": "Golfo Pérsico",
+        "poblacion": 2930527,
+        "gentilicio": "qatarí",
+        "zonaHoraria": "UTC+3",
+        "fronteras": ["Arabia Saudita"],
+        "nombreNativo": "قطر",
+        "codigoNumerico": "634",
+        "moneda": "Riyal catarí",
+        "idiomas": ["Árabe"],
+        "traducciones": {
+            "Inglés": "Qatar",
+            "Francés": "Qatar",
+            "Alemán": "Katar"
+        },
+        "independencia": {
+            "fecha": "3 de septiembre de 1971",
+            "detalles": "Catar se independizó del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Tamim bin Hamad Al Thani",
+            "fechaDeAsunción": "2013",
+            "partido": "Monarquía absoluta"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular, y el país ha sido sede de eventos internacionales como la Copa Mundial de la FIFA 2022."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/459px-Flag_of_Qatar.svg.png",
+            "descripcion": "Bandera de Catar con un fondo burdeos y una franja blanca con nueve puntos serrados."
+        }
+    },
+    {
+        "nombre": "Chad",
+        "codigoDeLlamada": "+235",
+        "capital": "Yamena",
+        "ciudadesImportantes": ["Moundou", "Sarh", "Abéché", "Kélo"],
+        "region": "África",
+        "subRegion": "África Central",
+        "poblacion": 17249709,
+        "gentilicio": "chadiano/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Libia", "Sudán", "República Centroafricana", "Camerún", "Nigeria", "Níger"],
+        "nombreNativo": "Tchad",
+        "codigoNumerico": "148",
+        "moneda": "Franco CFA de África Central",
+        "idiomas": ["Francés", "Árabe"],
+        "traducciones": {
+            "Inglés": "Chad",
+            "Francés": "Tchad",
+            "Alemán": "Tschad"
+        },
+        "independencia": {
+            "fecha": "11 de agosto de 1960",
+            "detalles": "Chad se independizó de Francia."
+        },
+        "presidente": {
+            "nombre": "Mahamat Déby",
+            "fechaDeAsunción": "2021",
+            "partido": "Consejo Militar de Transición"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más practicado, aunque el país no ha tenido grandes éxitos a nivel internacional."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/270px-Flag_of_Chad.svg.png",
+            "descripcion": "Bandera de Chad con tres franjas verticales: azul, amarillo y rojo."
+        }
+    },
+    {
+        "nombre": "Chile",
+        "codigoDeLlamada": "+56",
+        "capital": "Santiago",
+        "ciudadesImportantes": ["Valparaíso", "Concepción", "La Serena", "Antofagasta"],
+        "region": "América",
+        "subRegion": "América del Sur",
+        "poblacion": 19212362,
+        "gentilicio": "chileno/a",
+        "zonaHoraria": "UTC-3",
+        "fronteras": ["Perú", "Bolivia", "Argentina"],
+        "nombreNativo": "Chile",
+        "codigoNumerico": "152",
+        "moneda": "Peso chileno",
+        "idiomas": ["Español"],
+        "traducciones": {
+            "Inglés": "Chile",
+            "Francés": "Chili",
+            "Alemán": "Chile"
+        },
+        "independencia": {
+            "fecha": "18 de septiembre de 1810",
+            "detalles": "Chile declaró su independencia de España."
+        },
+        "presidente": {
+            "nombre": "Gabriel Boric",
+            "fechaDeAsunción": "2022",
+            "partido": "Convergencia Social"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte nacional y más popular, con una selección que ha ganado dos Copas América."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/270px-Flag_of_Chile.svg.png",
+            "descripcion": "Bandera de Chile con dos franjas horizontales: blanco y rojo, con un cuadrado azul en la esquina superior izquierda que contiene una estrella blanca."
+        }
+    },
+    {
+        "nombre": "Republica Popular de China",
+        "codigoDeLlamada": "+86",
+        "capital": "Pekín",
+        "ciudadesImportantes": ["Shanghái", "Cantón", "Shenzhen", "Chongqing"],
+        "region": "Asia",
+        "subRegion": "Asia Oriental",
+        "poblacion": 1411778724,
+        "gentilicio": "chino/a",
+        "zonaHoraria": "UTC+8",
+        "fronteras": ["Afganistán", "Bután", "Birmania", "India", "Kazajistán", "Corea del Norte", "Kirguistán", "Laos", "Mongolia", "Nepal", "Pakistán", "Rusia", "Tayikistán", "Vietnam"],
+        "nombreNativo": "中国",
+        "codigoNumerico": "156",
+        "moneda": "Yuan",
+        "idiomas": ["Chino mandarín"],
+        "traducciones": {
+            "Inglés": "China",
+            "Francés": "Chine",
+            "Alemán": "China"
+        },
+        "independencia": {
+            "fecha": "1 de octubre de 1949",
+            "detalles": "Proclamación de la República Popular China por Mao Zedong."
+        },
+        "presidente": {
+            "nombre": "Xi Jinping",
+            "fechaDeAsunción": "2013",
+            "partido": "Partido Comunista Chino"
+        },
+        "deporte": {
+            "deportePopular": "Tenis de mesa",
+            "detalles": "El tenis de mesa es el deporte nacional, aunque el fútbol y el baloncesto están en auge."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/270px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+            "descripcion": "Bandera de China con un fondo rojo y cinco estrellas amarillas en la esquina superior izquierda."
+        }
+    },
+    {
+        "nombre": "Chipre",
+        "codigoDeLlamada": "+357",
+        "capital": "Nicosia",
+        "ciudadesImportantes": ["Limassol", "Larnaca", "Pafos", "Famagusta"],
+        "region": "Europa",
+        "subRegion": "Europa Meridional",
+        "poblacion": 1207359,
+        "gentilicio": "chipriota",
+        "zonaHoraria": "UTC+2",
+        "fronteras": "Es una isla, no tiene fronteras terrestres.",
+        "nombreNativo": "Κύπρος",
+        "codigoNumerico": "196",
+        "moneda": "Euro",
+        "idiomas": ["Griego", "Turco"],
+        "traducciones": {
+            "Inglés": "Cyprus",
+            "Francés": "Chypre",
+            "Alemán": "Zypern"
+        },
+        "independencia": {
+            "fecha": "16 de agosto de 1960",
+            "detalles": "Chipre se independizó del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Nikos Christodoulides",
+            "fechaDeAsunción": "2023",
+            "partido": "Partido Democrático"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Chipre."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/270px-Flag_of_Cyprus.svg.png",
+            "descripcion": "Bandera de Chipre con un fondo blanco, el mapa de la isla en color cobre y dos ramas de olivo verdes debajo."
+        }
+    },
+    {
+        "nombre": "Colombia",
+        "codigoDeLlamada": "+57",
+        "capital": "Bogotá",
+        "ciudadesImportantes": ["Medellín", "Cali", "Barranquilla", "Cartagena"],
+        "region": "América",
+        "subRegion": "América del Sur",
+        "poblacion": 52057800,
+        "gentilicio": "colombiano/a",
+        "zonaHoraria": "UTC-5",
+        "fronteras": ["Panamá", "Venezuela", "Brasil", "Perú", "Ecuador"],
+        "nombreNativo": "Colombia",
+        "codigoNumerico": "170",
+        "moneda": "Peso colombiano",
+        "idiomas": ["Español"],
+        "traducciones": {
+            "Inglés": "Colombia",
+            "Francés": "Colombie",
+            "Alemán": "Kolumbien"
+        },
+        "independencia": {
+            "fecha": "20 de julio de 1810",
+            "detalles": "Colombia se independizó de España."
+        },
+        "presidente": {
+            "nombre": "Gustavo Petro",
+            "fechaDeAsunción": "2022",
+            "partido": "Colombia Humana"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular, con logros a nivel continental y mundial."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/270px-Flag_of_Colombia.svg.png",
+            "descripcion": "Bandera de Colombia con tres franjas horizontales: amarilla (superior y más ancha), azul y roja."
+        }
+    },
+    {
+        "nombre": "Comoras",
+        "codigoDeLlamada": "+269",
+        "capital": "Moroni",
+        "ciudadesImportantes": ["Mutsamudu", "Domoni", "Fomboni"],
+        "region": "África",
+        "subRegion": "África Oriental",
+        "poblacion": 869601,
+        "gentilicio": "comorense",
+        "zonaHoraria": "UTC+3",
+        "fronteras": "Es una isla, no tiene fronteras terrestres.",
+        "nombreNativo": "Komori",
+        "codigoNumerico": "174",
+        "moneda": "Franco comorense",
+        "idiomas": ["Francés", "Árabe", "Comorense"],
+        "traducciones": {
+            "Inglés": "Comoros",
+            "Francés": "Comores",
+            "Alemán": "Komoren"
+        },
+        "independencia": {
+            "fecha": "6 de julio de 1975",
+            "detalles": "Comoras se independizó de Francia."
+        },
+        "presidente": {
+            "nombre": "Azali Assoumani",
+            "fechaDeAsunción": "2016",
+            "partido": "Partido Azul"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular, aunque es un país pequeño en competiciones."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/300px-Flag_of_the_Comoros.svg.png",
+            "descripcion": "Bandera de Comoras con cuatro franjas horizontales de color amarillo, blanco, rojo y azul, con un triángulo verde y una media luna con cuatro estrellas blancas."
+        }
+    },
+    {
+        "nombre": "Corea del Norte",
+        "codigoDeLlamada": "+850",
+        "capital": "Pionyang",
+        "ciudadesImportantes": ["Kaesong", "Nampo", "Wonsan"],
+        "region": "Asia",
+        "subRegion": "Asia Oriental",
+        "poblacion": 25778816,
+        "gentilicio": "norcoreano/a",
+        "zonaHoraria": "UTC+9",
+        "fronteras": ["China", "Corea del Sur", "Rusia"],
+        "nombreNativo": "조선민주주의인민공화국",
+        "codigoNumerico": "408",
+        "moneda": "Won norcoreano",
+        "idiomas": ["Coreano"],
+        "traducciones": {
+            "Inglés": "North Korea",
+            "Francés": "Corée du Nord",
+            "Alemán": "Nordkorea"
+        },
+        "independencia": {
+            "fecha": "15 de agosto de 1945",
+            "detalles": "Liberación de Corea del dominio japonés."
+        },
+        "presidente": {
+            "nombre": "Kim Jong-un",
+            "fechaDeAsunción": "2011",
+            "partido": "Partido de los Trabajadores de Corea"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular, aunque también destacan en otros deportes como el levantamiento de pesas."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/360px-Flag_of_North_Korea.svg.png",
+            "descripcion": "Bandera de Corea del Norte con franjas azules en la parte superior e inferior, y una franja roja central con una estrella roja en un círculo blanco en el centro."
+        }
+    },
+    {
+        "nombre": "Corea del Sur",
+        "codigoDeLlamada": "+82",
+        "capital": "Seúl",
+        "ciudadesImportantes": ["Busan", "Incheon", "Daegu", "Daejeon"],
+        "region": "Asia",
+        "subRegion": "Asia Oriental",
+        "poblacion": 51780579,
+        "gentilicio": "surcoreano/a",
+        "zonaHoraria": "UTC+9",
+        "fronteras": ["Corea del Norte"],
+        "nombreNativo": "대한민국 (Daehan Minguk)",
+        "codigoNumerico": "410",
+        "moneda": "Won surcoreano",
+        "idiomas": ["Coreano"],
+        "traducciones": {
+            "Inglés": "South Korea",
+            "Francés": "Corée du Sud",
+            "Alemán": "Südkorea"
+        },
+        "independencia": {
+            "fecha": "15 de agosto de 1945",
+            "detalles": "Liberación de Corea del dominio japonés, aunque oficialmente se estableció como República de Corea en 1948."
+        },
+        "presidente": {
+            "nombre": "Yoon Suk-yeol",
+            "fechaDeAsunción": "2022",
+            "partido": "Partido del Poder Popular"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es muy popular en Corea del Sur, pero también destacan en otros deportes como el taekwondo y el béisbol."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/360px-Flag_of_South_Korea.svg.png",
+            "descripcion": "Bandera de Corea del Sur con un fondo blanco, un símbolo 'Taeguk' en el centro con colores rojo y azul, y cuatro trigramas en las esquinas."
+        }
+    },
+    {
+        "nombre": "Costa de Marfil",
+        "codigoDeLlamada": "+225",
+        "capital": "Yamusukro",
+        "ciudadesImportantes": ["Abiyán", "Bouaké", "Daloa", "San Pedro"],
+        "region": "África",
+        "subRegion": "África Occidental",
+        "poblacion": 26378274,
+        "gentilicio": "marfileño/a",
+        "zonaHoraria": "UTC",
+        "fronteras": ["Liberia", "Guinea", "Mali", "Burkina Faso", "Ghana"],
+        "nombreNativo": "Côte d'Ivoire",
+        "codigoNumerico": "384",
+        "moneda": "Franco CFA de África Occidental",
+        "idiomas": ["Francés"],
+        "traducciones": {
+            "Inglés": "Ivory Coast",
+            "Francés": "Côte d'Ivoire",
+            "Alemán": "Elfenbeinküste"
+        },
+        "independencia": {
+            "fecha": "7 de agosto de 1960",
+            "detalles": "Costa de Marfil se independizó de Francia."
+        },
+        "presidente": {
+            "nombre": "Alassane Ouattara",
+            "fechaDeAsunción": "2010",
+            "partido": "Agrupación de Houphouëtistas para la Democracia y la Paz"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular, con una selección nacional destacada en competiciones africanas."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/270px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+            "descripcion": "Bandera de Costa de Marfil con tres franjas verticales: naranja, blanca y verde."
+        }
+    },
+    {
+        "nombre": "Costa Rica",
+        "codigoDeLlamada": "+506",
+        "capital": "San José",
+        "ciudadesImportantes": ["Alajuela", "Cartago", "Heredia", "Puntarenas"],
+        "region": "América",
+        "subRegion": "América Central",
+        "poblacion": 5127601,
+        "gentilicio": "costarricense",
+        "zonaHoraria": "UTC-6",
+        "fronteras": ["Nicaragua", "Panamá"],
+        "nombreNativo": "Costa Rica",
+        "codigoNumerico": "188",
+        "moneda": "Colón costarricense",
+        "idiomas": ["Español"],
+        "traducciones": {
+            "Inglés": "Costa Rica",
+            "Francés": "Costa Rica",
+            "Alemán": "Costa Rica"
+        },
+        "independencia": {
+            "fecha": "15 de septiembre de 1821",
+            "detalles": "Costa Rica se independizó de España junto con otros países de Centroamérica."
+        },
+        "presidente": {
+            "nombre": "Rodrigo Chaves Robles",
+            "fechaDeAsunción": "2022",
+            "partido": "Partido Progreso Social Democrático"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular, con importantes participaciones en la Copa Mundial de la FIFA."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/300px-Flag_of_Costa_Rica.svg.png",
+            "descripcion": "Bandera de Costa Rica con cinco franjas horizontales: azul, blanca, roja (doble anchura), blanca y azul."
+        }
+    },
+    {
+        "nombre": "Croacia",
+        "codigoDeLlamada": "+385",
+        "capital": "Zagreb",
+        "ciudadesImportantes": ["Split", "Rijeka", "Osijek", "Zadar"],
+        "region": "Europa",
+        "subRegion": "Europa del Sur",
+        "poblacion": 4036468,
+        "gentilicio": "croata",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Eslovenia", "Hungría", "Serbia", "Bosnia y Herzegovina", "Montenegro"],
+        "nombreNativo": "Hrvatska",
+        "codigoNumerico": "191",
+        "moneda": "Euro",
+        "idiomas": ["Croata"],
+        "traducciones": {
+            "Inglés": "Croatia",
+            "Francés": "Croatie",
+            "Alemán": "Kroatien"
+        },
+        "independencia": {
+            "fecha": "25 de junio de 1991",
+            "detalles": "Croacia declaró su independencia de Yugoslavia."
+        },
+        "presidente": {
+            "nombre": "Zoran Milanović",
+            "fechaDeAsunción": "2020",
+            "partido": "Partido Socialdemócrata de Croacia"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular, con la selección nacional alcanzando la final del Mundial en 2018."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/360px-Flag_of_Croatia.svg.png",
+            "descripcion": "Bandera de Croacia con tres franjas horizontales: roja, blanca y azul, con el escudo de Croacia en el centro."
+        }
+    },
+    {
+        "nombre": "Cuba",
+        "codigoDeLlamada": "+53",
+        "capital": "La Habana",
+        "ciudadesImportantes": ["Santiago de Cuba", "Camagüey", "Holguín", "Santa Clara"],
+        "region": "América",
+        "subRegion": "Caribe",
+        "poblacion": 11308414,
+        "gentilicio": "cubano/a",
+        "zonaHoraria": "UTC-5",
+        "fronteras": "Es una isla, no tiene fronteras terrestres.",
+        "nombreNativo": "Cuba",
+        "codigoNumerico": "192",
+        "moneda": "Peso cubano",
+        "idiomas": ["Español"],
+        "traducciones": {
+            "Inglés": "Cuba",
+            "Francés": "Cuba",
+            "Alemán": "Kuba"
+        },
+        "independencia": {
+            "fecha": "20 de mayo de 1902",
+            "detalles": "Cuba se independizó de los Estados Unidos tras la Guerra Hispano-Estadounidense."
+        },
+        "presidente": {
+            "nombre": "Miguel Díaz-Canel",
+            "fechaDeAsunción": "2018",
+            "partido": "Partido Comunista de Cuba"
+        },
+        "deporte": {
+            "deportePopular": "Béisbol",
+            "detalles": "El béisbol es el deporte más popular, con una fuerte tradición de jugadores a nivel internacional."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/360px-Flag_of_Cuba.svg.png",
+            "descripcion": "Bandera de Cuba con cinco franjas horizontales: tres azules y dos blancas, con un triángulo rojo en el lado izquierdo que contiene una estrella blanca."
+        }
+    },
+    {
+        "nombre": "Dinamarca",
+        "codigoDeLlamada": "+45",
+        "capital": "Copenhague",
+        "ciudadesImportantes": ["Aarhus", "Odense", "Aalborg", "Esbjerg"],
+        "region": "Europa",
+        "subRegion": "Europa del Norte",
+        "poblacion": 5831404,
+        "gentilicio": "danés/esa",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Alemania"],
+        "nombreNativo": "Danmark",
+        "codigoNumerico": "208",
+        "moneda": "Corona danesa",
+        "idiomas": ["Danés"],
+        "traducciones": {
+            "Inglés": "Denmark",
+            "Francés": "Danemark",
+            "Alemán": "Dänemark"
+        },
+        "independencia": {
+            "fecha": "No aplica",
+            "detalles": "Dinamarca es uno de los estados más antiguos de Europa, y no tiene una fecha formal de independencia."
+        },
+        "presidente": {
+            "nombre": "Mette Frederiksen",
+            "fechaDeAsunción": "2019",
+            "partido": "Partido Socialdemócrata"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular, con éxitos notables como la victoria en la Eurocopa de 1992."
+        },
+        "bandera": {
+            
+           
+"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/238px-Flag_of_Denmark.svg.png",
+            "descripcion": "Bandera de Dinamarca, llamada 'Dannebrog', con una cruz blanca que se extiende hasta los bordes de la bandera sobre un fondo rojo."
+        
+       
+}
+    
+   
+},
+    {
+        "nombre": "Dominica",
+        "codigoDeLlamada": "+1-767",
+        
+       
+"capital": "Roseau",
+        "ciudadesImportantes": ["Portsmouth", "Marigot", "Berekua", "Mahaut"],
+        
+       
+"region": "América",
+        
+       
+"subRegion": "Caribe",
+        "poblacion": 71991,
+        "gentilicio": "dominico/a",
+        "zonaHoraria": "UTC-4",
+        "fronteras": "Es una isla, no tiene fronteras terrestres.",
+        "nombreNativo": "Dominica",
+        "codigoNumerico": "212",
+        "moneda": "Dólar del Caribe Oriental",
+        "idiomas": ["Inglés", "Criollo dominico"],
+        "traducciones": {
+            "Inglés": "Dominica",
+            "Francés": "Dominique",
+            "Alemán": "Dominica"
+        },
+        "independencia": {
+            "fecha": "3 de noviembre de 1978",
+            "detalles": "Dominica se independizó del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Roosevelt Skerrit",
+            "fechaDeAsunción": "2004",
+            "partido": "Partido Laborista de Dominica"
+        
+       
+},
+        "deporte": {
+            "deportePopular": "Críquet",
+            "detalles": "El críquet es muy popular en Dominica, compartiendo la tradición caribeña de este deporte."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/360px-Flag_of_Dominica.svg.png",
+            "descripcion": "Bandera de Dominica con una cruz de tres colores (amarillo, negro y blanco) sobre un fondo verde, con un círculo rojo en el centro que contiene un loro."
+        }
+    },
+    {
+        "nombre": "Ecuador",
+        "codigoDeLlamada": "+593",
+        "capital": "Quito",
+        "ciudadesImportantes": ["Guayaquil", "Cuenca", "Santo Domingo", "Machala"],
+        "region": "América",
+        "subRegion": "Sudamérica",
+        "poblacion": 17643060,
+        "gentilicio": "ecuatoriano/a",
+        "zonaHoraria": "UTC-5",
+        "fronteras": ["Colombia", "Perú"],
+        "nombreNativo": "Ecuador",
+        "codigoNumerico": "218",
+        "moneda": "Dólar estadounidense",
+        "idiomas": ["Español", "Quichua"],
+        "traducciones": {
+            "Inglés": "Ecuador",
+            "Francés": "Équateur",
+            "Alemán": "Ecuador"
+        },
+        "independencia": {
+            "fecha": "24 de mayo de 1822",
+            "detalles": "Se independizó de España."
+        },
+        "presidente": {
+            "nombre": "Daniel Noboa",
+            "fechaDeAsunción": "2023",
+            "partido": "Acción Democrática Nacional"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Ecuador."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/360px-Flag_of_Ecuador.svg.png",
+            "descripcion": "Bandera de Ecuador con tres franjas horizontales, la superior amarilla (doble ancho), la del medio azul y la inferior roja, con el escudo en el centro."
+        }
+    },
+    {
+        "nombre": "Egipto",
+        "codigoDeLlamada": "+20",
+        "capital": "El Cairo",
+        "ciudadesImportantes": ["Alejandría", "Giza", "Luxor", "Sharm el-Sheikh"],
+        "region": "África",
+        "subRegion": "África del Norte",
+        "poblacion": 104124440,
+        "gentilicio": "egipcio/a",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Libia", "Sudán", "Israel", "Franja de Gaza"],
+        "nombreNativo": "مصر",
+        "codigoNumerico": "818",
+        "moneda": "Libra egipcia",
+        "idiomas": ["Árabe"],
+        "traducciones": {
+            "Inglés": "Egypt",
+            "Francés": "Égypte",
+            "Alemán": "Ägypten"
+        },
+        "independencia": {
+            "fecha": "28 de febrero de 1922",
+            "detalles": "Se independizó del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Abdel Fattah el-Sisi",
+            "fechaDeAsunción": "2014",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Egipto."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/360px-Flag_of_Egypt.svg.png",
+            "descripcion": "Bandera de Egipto con tres franjas horizontales de igual tamaño: rojo, blanco y negro, con el escudo de armas en el centro."
+        }
+    },
+    {
+        "nombre": "El Salvador",
+        "codigoDeLlamada": "+503",
+        "capital": "San Salvador",
+        "ciudadesImportantes": ["Santa Ana", "San Miguel", "Soyapango", "Mejicanos"],
+        "region": "América",
+        "subRegion": "Centroamérica",
+        "poblacion": 6486201,
+        "gentilicio": "salvadoreño/a",
+        "zonaHoraria": "UTC-6",
+        "fronteras": ["Guatemala", "Honduras"],
+        "nombreNativo": "El Salvador",
+        "codigoNumerico": "222",
+        "moneda": "Dólar estadounidense",
+        "idiomas": ["Español"],
+        "traducciones": {
+            "Inglés": "El Salvador",
+            "Francés": "Salvador",
+            "Alemán": "El Salvador"
+        },
+        "independencia": {
+            "fecha": "15 de septiembre de 1821",
+            "detalles": "Se independizó de España."
+        },
+        "presidente": {
+            "nombre": "Nayib Bukele",
+            "fechaDeAsunción": "2019",
+            "partido": "Nuevas Ideas"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en El Salvador."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/360px-Flag_of_El_Salvador.svg.png",
+            "descripcion": "Bandera de El Salvador con tres franjas horizontales: azul, blanca y azul, con el escudo nacional en el centro."
+        }
+    },
+    {
+        "nombre": "Emiratos Árabes Unidos",
+        "codigoDeLlamada": "+971",
+        "capital": "Abu Dabi",
+        "ciudadesImportantes": ["Dubái", "Sharjah", "Al Ain", "Ajmán"],
+        "region": "Asia",
+        "subRegion": "Asia Occidental",
+        "poblacion": 9890400,
+        "gentilicio": "emiratí",
+        "zonaHoraria": "UTC+4",
+        "fronteras": ["Omán", "Arabia Saudita"],
+        "nombreNativo": "الإمارات العربية المتحدة",
+        "codigoNumerico": "784",
+        "moneda": "Dirham",
+        "idiomas": ["Árabe"],
+        "traducciones": {
+            "Inglés": "United Arab Emirates",
+            "Francés": "Émirats arabes unis",
+            "Alemán": "Vereinigte Arabische Emirate"
+        },
+        "independencia": {
+            "fecha": "2 de diciembre de 1971",
+            "detalles": "Se independizó del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Mohamed bin Zayed Al Nahyan",
+            "fechaDeAsunción": "2022",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en los Emiratos Árabes Unidos."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/360px-Flag_of_the_United_Arab_Emirates.svg.png",
+            "descripcion": "Bandera de Emiratos Árabes Unidos con franjas horizontales de color verde, blanco y negro, y una franja roja vertical en el lado izquierdo."
+        }
+    },
+    {
+        "nombre": "Eritrea",
+        "codigoDeLlamada": "+291",
+        "capital": "Asmara",
+        "ciudadesImportantes": ["Keren", "Assab", "Massawa", "Mendefera"],
+        "region": "África",
+        "subRegion": "África Oriental",
+        "poblacion": 3546000,
+        "gentilicio": "eritreo/a",
+        "zonaHoraria": "UTC+3",
+        "fronteras": ["Sudán", "Etiopía", "Yibuti"],
+        "nombreNativo": "ኤርትራ",
+        "codigoNumerico": "232",
+        "moneda": "Nakfa",
+        "idiomas": ["Tigrinya", "Árabe", "Inglés"],
+        "traducciones": {
+            "Inglés": "Eritrea",
+            "Francés": "Érythrée",
+            "Alemán": "Eritrea"
+        },
+        "independencia": {
+            "fecha": "24 de mayo de 1993",
+            "detalles": "Se independizó de Etiopía."
+        },
+        "presidente": {
+            "nombre": "Isaias Afwerki",
+            "fechaDeAsunción": "1993",
+            "partido": "Frente Popular para la Democracia y la Justicia"
+        },
+        "deporte": {
+            "deportePopular": "Atletismo",
+            "detalles": "El atletismo, especialmente las carreras de fondo, es muy popular en Eritrea."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/360px-Flag_of_Eritrea.svg.png",
+            "descripcion": "Bandera de Eritrea con triángulos verdes, rojos y azules y una corona de olivo dorada."
+        }
+    },
+    {
+        "nombre": "Eslovaquia",
+        "codigoDeLlamada": "+421",
+        "capital": "Bratislava",
+        "ciudadesImportantes": ["Košice", "Prešov", "Žilina", "Nitra"],
+        "region": "Europa",
+        "subRegion": "Europa Central",
+        "poblacion": 5467600,
+        "gentilicio": "eslovaco/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Polonia", "Austria", "Hungría", "República Checa", "Ucrania"],
+        "nombreNativo": "Slovensko",
+        "codigoNumerico": "703",
+        "moneda": "Euro",
+        "idiomas": ["Eslovaco"],
+        "traducciones": {
+            "Inglés": "Slovakia",
+            "Francés": "Slovaquie",
+            "Alemán": "Slowakei"
+        },
+        "independencia": {
+            "fecha": "1 de enero de 1993",
+            "detalles": "Se separó pacíficamente de Checoslovaquia."
+        },
+        "presidente": {
+            "nombre": "Zuzana Čaputová",
+            "fechaDeAsunción": "2019",
+            "partido": "Progresívne Slovensko"
+        },
+        "deporte": {
+            "deportePopular": "Hockey sobre hielo",
+            "detalles": "El hockey sobre hielo es el deporte más popular en Eslovaquia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/360px-Flag_of_Slovakia.svg.png",
+            "descripcion": "Bandera de Eslovaquia con tres franjas horizontales de blanco, azul y rojo, y el escudo nacional en el lado izquierdo."
+        }
+    },
+    {
+        "nombre": "Eslovenia",
+        "codigoDeLlamada": "+386",
+        "capital": "Liubliana",
+        "ciudadesImportantes": ["Maribor", "Kranj", "Celje", "Velenje"],
+        "region": "Europa",
+        "subRegion": "Europa Central",
+        "poblacion": 2100100,
+        "gentilicio": "esloveno/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Italia", "Austria", "Hungría", "Croacia"],
+        "nombreNativo": "Slovenija",
+        "codigoNumerico": "705",
+        "moneda": "Euro",
+        "idiomas": ["Esloveno"],
+        "traducciones": {
+            "Inglés": "Slovenia",
+            "Francés": "Slovénie",
+            "Alemán": "Slowenien"
+        },
+        "independencia": {
+            "fecha": "25 de junio de 1991",
+            "detalles": "Se independizó de Yugoslavia."
+        },
+        "presidente": {
+            "nombre": "Nataša Pirc Musar",
+            "fechaDeAsunción": "2022",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Esquí",
+            "detalles": "El esquí es uno de los deportes más populares en Eslovenia, especialmente el esquí de fondo."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/360px-Flag_of_Slovenia.svg.png",
+            "descripcion": "Bandera de Eslovenia con franjas horizontales de blanco, azul y rojo, y el escudo nacional en el lado superior izquierdo."
+        }
+    },
+    {
+        "nombre": "España",
+        "codigoDeLlamada": "+34",
+        "capital": "Madrid",
+        "ciudadesImportantes": ["Barcelona", "Valencia", "Sevilla", "Bilbao"],
+        "region": "Europa",
+        "subRegion": "Europa Occidental",
+        "poblacion": 47450795,
+        "gentilicio": "español/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Francia", "Portugal", "Andorra", "Gibraltar (Reino Unido)"],
+        "nombreNativo": "España",
+        "codigoNumerico": "724",
+        "moneda": "Euro",
+        "idiomas": ["Español", "Catalán", "Gallego", "Vasco"],
+        "traducciones": {
+            "Inglés": "Spain",
+            "Francés": "Espagne",
+            "Alemán": "Spanien"
+        },
+        "independencia": {
+            "fecha": "12 de octubre de 1492",
+            "detalles": "Fecha simbólica relacionada con el descubrimiento de América."
+        },
+        "presidente": {
+            "nombre": "Pedro Sánchez",
+            "fechaDeAsunción": "2018",
+            "partido": "PSOE"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en España."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/360px-Flag_of_Spain.svg.png",
+            "descripcion": "Bandera de España con tres franjas horizontales, las dos exteriores rojas y la del medio amarilla, con el escudo en el lado izquierdo."
+        }
+    },
+    {
+        "nombre": "Somalia",
+        "codigoDeLlamada": "+252",
+        "capital": "Mogadiscio",
+        "ciudadesImportantes": ["Mogadiscio", "Hargeysa", "Burao", "Kismayo"],
+        "region": "África",
+        "subRegion": "África Oriental",
+        "poblacion": 15893222,
+        "gentilicio": "somalí/a",
+        "zonaHoraria": "UTC+3",
+        "fronteras": ["Yibuti", "Etiopía", "Kenia"],
+        "nombreNativo": "Soomaaliya",
+        "codigoNumerico": "706",
+        "moneda": "Shilling somalí",
+        "idiomas": ["Somalí", "Árabe"],
+        "traducciones": {
+            "Inglés": "Somalia",
+            "Francés": "Somalie",
+            "Alemán": "Somalia"
+        },
+        "independencia": {
+            "fecha": "1 de julio de 1960",
+            "detalles": "Se unieron el territorio de Somalia del Sur y el Territorio de Somalilandia."
+        },
+        "presidente": {
+            "nombre": "Hassan Sheikh Mohamud",
+            "fechaDeAsunción": "2022",
+            "partido": "Unión para la Salvación de Somalia"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Somalia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/342px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
+            "descripcion": "Bandera de Somalia con un fondo azul y una estrella blanca de cinco puntas en el centro."
+        }
+    },
+    {
+        "nombre": "Estados Unidos",
+        "codigoDeLlamada": "+1",
+        "capital": "Washington D.C.",
+        "ciudadesImportantes": ["Nueva York", "Los Ángeles", "Chicago", "Houston"],
+        "region": "América",
+        "subRegion": "América del Norte",
+        "poblacion": 331893745,
+        "gentilicio": "estadounidense",
+        "zonaHoraria": "UTC-5 a UTC-10",
+        "fronteras": ["Canadá", "México"],
+        "nombreNativo": "United States",
+        "codigoNumerico": "840",
+        "moneda": "Dólar estadounidense",
+        "idiomas": ["Inglés"],
+        "traducciones": {
+            "Inglés": "United States",
+            "Francés": "États-Unis",
+            "Alemán": "Vereinigte Staaten"
+        },
+        "independencia": {
+            "fecha": "4 de julio de 1776",
+            "detalles": "Declaración de independencia de Gran Bretaña."
+        },
+        "presidente": {
+            "nombre": "Joe Biden",
+            "fechaDeAsunción": "2021",
+            "partido": "Demócrata"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol americano",
+            "detalles": "El fútbol americano es el deporte más popular en Estados Unidos."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/360px-Flag_of_the_United_States.svg.png",
+            "descripcion": "Bandera de Estados Unidos con 13 franjas rojas y blancas y un cuadro azul con 50 estrellas blancas."
+        }
+    },
+    {
+        "nombre": "Estonia",
+        "codigoDeLlamada": "+372",
+        "capital": "Tallin",
+        "ciudadesImportantes": ["Tallin", "Tartu", "Narva", "Kohtla-Järve"],
+        "region": "Europa",
+        "subRegion": "Europa del Norte",
+        "poblacion": 1326535,
+        "gentilicio": "estonio/a",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Letonia", "Rusia"],
+        "nombreNativo": "Eesti",
+        "codigoNumerico": "233",
+        "moneda": "Euro",
+        "idiomas": ["Estonio"],
+        "traducciones": {
+            "Inglés": "Estonia",
+            "Francés": "Estonie",
+            "Alemán": "Estland"
+        },
+        "independencia": {
+            "fecha": "24 de febrero de 1918",
+            "detalles": "Proclamación de independencia del Imperio Ruso."
+        },
+        "presidente": {
+            "nombre": "Alar Karis",
+            "fechaDeAsunción": "2021",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Baloncesto",
+            "detalles": "El baloncesto es un deporte popular en Estonia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/360px-Flag_of_Estonia.svg.png",
+            "descripcion": "Bandera de Estonia con tres franjas horizontales de negro, azul y blanco."
+        }
+    },
+    {
+        "nombre": "Etiopía",
+        "codigoDeLlamada": "+251",
+        "capital": "Adís Abeba",
+        "ciudadesImportantes": ["Adís Abeba", "Gondar", "Mekele", "Dire Dawa"],
+        "region": "África",
+        "subRegion": "África Oriental",
+        "poblacion": 120812698,
+        "gentilicio": "etíope",
+        "zonaHoraria": "UTC+3",
+        "fronteras": ["Eritrea", "Sudán", "Sudán del Sur", "Kenya", "Somalia", "Yibuti"],
+        "nombreNativo": "Ityop'iya",
+        "codigoNumerico": "231",
+        "moneda": "Birr etíope",
+        "idiomas": ["Amhárico"],
+        "traducciones": {
+            "Inglés": "Ethiopia",
+            "Francés": "Éthiopie",
+            "Alemán": "Äthiopien"
+        },
+        "independencia": {
+            "fecha": "5 de mayo de 1941",
+            "detalles": "Liberación de la ocupación italiana."
+        },
+        "presidente": {
+            "nombre": "Abiy Ahmed",
+            "fechaDeAsunción": "2018",
+            "partido": "Partido de la Prosperidad"
+        },
+        "deporte": {
+            "deportePopular": "Atletismo",
+            "detalles": "Etiopía es famosa por su éxito en el atletismo, especialmente en carreras de larga distancia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/360px-Flag_of_Ethiopia.svg.png",
+            "descripcion": "Bandera de Etiopía con tres franjas horizontales de verde, amarillo y rojo, y un escudo azul con una estrella y rayos en el centro."
+        }
+    },
+    {
+        "nombre": "Filipinas",
+        "codigoDeLlamada": "+63",
+        "capital": "Manila",
+        "ciudadesImportantes": ["Quezon City", "Davao", "Cebu", "Zamboanga"],
+        "region": "Asia",
+        "subRegion": "Asia del Sudeste",
+        "poblacion": 113880330,
+        "gentilicio": "filipino/a",
+        "zonaHoraria": "UTC+8",
+        "fronteras": [],
+        "nombreNativo": "Pilipinas",
+        "codigoNumerico": "608",
+        "moneda": "Peso filipino",
+        "idiomas": ["Filipino", "Inglés"],
+        "traducciones": {
+            "Inglés": "Philippines",
+            "Francés": "Philippines",
+            "Alemán": "Philippinen"
+        },
+        "independencia": {
+            "fecha": "12 de junio de 1898",
+            "detalles": "Independencia de España."
+        },
+        "presidente": {
+            "nombre": "Ferdinand Marcos Jr.",
+            "fechaDeAsunción": "2022",
+            "partido": "Unión Nacional de los Filipinos"
+        },
+        "deporte": {
+            "deportePopular": "Baloncesto",
+            "detalles": "El baloncesto es uno de los deportes más populares en Filipinas."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/360px-Flag_of_the_Philippines.svg.png",
+            "descripcion": "Bandera de Filipinas con tres franjas horizontales de azul, rojo y blanco, y un sol amarillo con tres estrellas en el lado izquierdo."
+        }
+    },
+    {
+        "nombre": "Finlandia",
+        "codigoDeLlamada": "+358",
+        "capital": "Helsinki",
+        "ciudadesImportantes": ["Helsinki", "Espoo", "Tampere", "Vantaa"],
+        "region": "Europa",
+        "subRegion": "Europa del Norte",
+        "poblacion": 5540720,
+        "gentilicio": "finlandés/a",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Suecia", "Noruega", "Rusia"],
+        "nombreNativo": "Suomi",
+        "codigoNumerico": "246",
+        "moneda": "Euro",
+        "idiomas": ["Finlandés", "Sueco"],
+        "traducciones": {
+            "Inglés": "Finland",
+            "Francés": "Finlande",
+            "Alemán": "Finnland"
+        },
+        "independencia": {
+            "fecha": "6 de diciembre de 1917",
+            "detalles": "Independencia de Rusia."
+        },
+        "presidente": {
+            "nombre": "Sauli Niinistö",
+            "fechaDeAsunción": "2012",
+            "partido": "Coalición Nacional"
+        },
+        "deporte": {
+            "deportePopular": "Hockey sobre hielo",
+            "detalles": "El hockey sobre hielo es uno de los deportes más populares en Finlandia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/360px-Flag_of_Finland.svg.png",
+            "descripcion": "Bandera de Finlandia con un fondo blanco y una cruz azul."
+        }
+    },
+    {
+        "nombre": "Fiyi",
+        "codigoDeLlamada": "+679",
+        "capital": "Suva",
+        "ciudadesImportantes": ["Suva", "Nadi", "Lautoka", "Labasa"],
+        "region": "Oceanía",
+        "subRegion": "Melanesia",
+        "poblacion": 896444,
+        "gentilicio": "fiyiano/a",
+        "zonaHoraria": "UTC+12",
+        "fronteras": [],
+        "nombreNativo": "Viti",
+        "codigoNumerico": "242",
+        "moneda": "Dólar fiyiano",
+        "idiomas": ["Fiyiano", "Hindú", "Inglés"],
+        "traducciones": {
+            "Inglés": "Fiji",
+            "Francés": "Fidji",
+            "Alemán": "Fidschi"
+        },
+        "independencia": {
+            "fecha": "10 de octubre de 1970",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Wiliame Katonivere",
+            "fechaDeAsunción": "2021",
+            "partido": "Partido de las Islas Fiyi"
+        },
+        "deporte": {
+            "deportePopular": "Rugby",
+            "detalles": "El rugby es el deporte más popular en Fiyi."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/360px-Flag_of_Fiji.svg.png",
+            "descripcion": "Bandera de Fiyi con un fondo azul y un escudo de armas en el lado derecho."
+        }
+    },
+    {
+        "nombre": "Francia",
+        "codigoDeLlamada": "+33",
+        "capital": "París",
+        "ciudadesImportantes": ["París", "Marsella", "Lyon", "Toulouse"],
+        "region": "Europa",
+        "subRegion": "Europa Occidental",
+        "poblacion": 65273511,
+        "gentilicio": "francés/francesa",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Bélgica", "Luxemburgo", "Alemania", "Suiza", "Italia", "Mónaco", "España", "Andorra"],
+        "nombreNativo": "France",
+        "codigoNumerico": "250",
+        "moneda": "Euro",
+        "idiomas": ["Francés"],
+        "traducciones": {
+            "Inglés": "France",
+            "Francés": "France",
+            "Alemán": "Frankreich"
+        },
+        "independencia": {
+            "fecha": "24 de diciembre de 843",
+            "detalles": "Constitución del Reino de Francia."
+        },
+        "presidente": {
+            "nombre": "Emmanuel Macron",
+            "fechaDeAsunción": "2017",
+            "partido": "La República en Marcha"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es uno de los deportes más populares en Francia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/360px-Flag_of_France.svg.png",
+            "descripcion": "Bandera de Francia con tres franjas verticales de azul, blanco y rojo."
+        }
+    },
+    {
+        "nombre": "Gabón",
+        "codigoDeLlamada": "+241",
+        "capital": "Libreville",
+        "ciudadesImportantes": ["Port-Gentil", "Franceville", "Moanda"],
+        "region": "África",
+        "subRegion": "África Central",
+        "poblacion": 2225734,
+        "gentilicio": "gabones/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Camerún", "República del Congo"],
+        "nombreNativo": "Gabon",
+        "codigoNumerico": "266",
+        "moneda": "Franco CFA de África Central",
+        "idiomas": ["Francés"],
+        "traducciones": {
+            "Inglés": "Gabon",
+            "Francés": "Gabon",
+            "Alemán": "Gabun"
+        },
+        "independencia": {
+            "fecha": "16 de agosto de 1960",
+            "detalles": "Independencia de Francia."
+        },
+        "presidente": {
+            "nombre": "Ali Bongo Ondimba",
+            "fechaDeAsunción": "2009",
+            "partido": "Partido Democrático Gabonés"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Gabón."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/240px-Flag_of_Gabon.svg.png",
+            "descripcion": "Bandera de Gabón con tres franjas horizontales de verde, amarillo y azul."
+        }
+    },
+    {
+        "nombre": "Gambia",
+        "codigoDeLlamada": "+220",
+        "capital": "Banjul",
+        "ciudadesImportantes": ["Serrekunda", "Bakau", "Brikama"],
+        "region": "África",
+        "subRegion": "África Occidental",
+        "poblacion": 2416661,
+        "gentilicio": "gambiano/a",
+        "zonaHoraria": "UTC+0",
+        "fronteras": ["Senegal"],
+        "nombreNativo": "The Gambia",
+        "codigoNumerico": "270",
+        "moneda": "Dalasi",
+        "idiomas": ["Inglés"],
+        "traducciones": {
+            "Inglés": "Gambia",
+            "Francés": "Gambie",
+            "Alemán": "Gambia"
+        },
+        "independencia": {
+            "fecha": "18 de febrero de 1965",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Adama Barrow",
+            "fechaDeAsunción": "2017",
+            "partido": "Partido de la Alianza Democrática"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Gambia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/270px-Flag_of_The_Gambia.svg.png",
+            "descripcion": "Bandera de Gambia con tres franjas horizontales de rojo, azul y verde."
+        }
+    },
+    {
+        "nombre": "Georgia",
+        "codigoDeLlamada": "+995",
+        "capital": "Tiflis",
+        "ciudadesImportantes": ["Tiflis", "Kutaisi", "Batumi"],
+        "region": "Asia",
+        "subRegion": "Asia Occidental",
+        "poblacion": 3989167,
+        "gentilicio": "georgiano/a",
+        "zonaHoraria": "UTC+4",
+        "fronteras": ["Rusia", "Azerbaiyán", "Armenia", "Turquía"],
+        "nombreNativo": "საქართველო (Sakartvelo)",
+        "codigoNumerico": "268",
+        "moneda": "Lari georgiano",
+        "idiomas": ["Georgiano"],
+        "traducciones": {
+            "Inglés": "Georgia",
+            "Francés": "Géorgie",
+            "Alemán": "Georgien"
+        },
+        "independencia": {
+            "fecha": "9 de abril de 1991",
+            "detalles": "Independencia de la Unión Soviética."
+        },
+        "presidente": {
+            "nombre": "Salome Zourabichvili",
+            "fechaDeAsunción": "2018",
+            "partido": "Movimiento por un Sueño Georgiano"
+        },
+        "deporte": {
+            "deportePopular": "Rugby",
+            "detalles": "El rugby es muy popular en Georgia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/270px-Flag_of_Georgia.svg.png",
+            "descripcion": "Bandera de Georgia con una cruz roja sobre fondo blanco."
+        }
+    },
+    {
+        "nombre": "Ghana",
+        "codigoDeLlamada": "+233",
+        "capital": "Acra",
+        "ciudadesImportantes": ["Kumasi", "Tamale", "Takoradi"],
+        "region": "África",
+        "subRegion": "África Occidental",
+        "poblacion": 31072940,
+        "gentilicio": "ghanés/a",
+        "zonaHoraria": "UTC+0",
+        "fronteras": ["Costa de Marfil", "Burkina Faso", "Togo"],
+        "nombreNativo": "Ghana",
+        "codigoNumerico": "288",
+        "moneda": "Cedi ghanés",
+        "idiomas": ["Inglés"],
+        "traducciones": {
+            "Inglés": "Ghana",
+            "Francés": "Ghana",
+            "Alemán": "Ghana"
+        },
+        "independencia": {
+            "fecha": "6 de marzo de 1957",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Nana Akufo-Addo",
+            "fechaDeAsunción": "2017",
+            "partido": "Partido Nacional de la Nueva Patriótica"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Ghana."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/360px-Flag_of_Ghana.svg.png",
+            "descripcion": "Bandera de Ghana con tres franjas horizontales de rojo, amarillo y verde, y una estrella negra en el centro."
+        }
+    },
+    {
+        "nombre": "Granada",
+        "codigoDeLlamada": "+1-473",
+        "capital": "Saint George's",
+        "ciudadesImportantes": ["Saint George's", "Gouyave", "Grenville"],
+        "region": "América",
+        "subRegion": "Caribe",
+        "poblacion": 112519,
+        "gentilicio": "granadino/a",
+        "zonaHoraria": "UTC-4",
+        "fronteras": [],
+        "nombreNativo": "Grenada",
+        "codigoNumerico": "308",
+        "moneda": "Dólar del Caribe Oriental",
+        "idiomas": ["Inglés"],
+        "traducciones": {
+            "Inglés": "Grenada",
+            "Francés": "Grenade",
+            "Alemán": "Grenada"
+        },
+        "independencia": {
+            "fecha": "7 de febrero de 1974",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Dickon Mitchell",
+            "fechaDeAsunción": "2022",
+            "partido": "Partido Nacional Democrático"
+        },
+        "deporte": {
+            "deportePopular": "Críquet",
+            "detalles": "El críquet es muy popular en Granada."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/360px-Flag_of_Grenada.svg.png",
+            "descripcion": "Bandera de Granada con una estrella roja en el centro y franjas diagonales de amarillo y verde."
+        }
+    },
+    {
+        "nombre": "Grecia",
+        "codigoDeLlamada": "+30",
+        "capital": "Atenas",
+        "ciudadesImportantes": ["Atenas", "Salónica", "Patras"],
+        "region": "Europa",
+        "subRegion": "Europa del Sur",
+        "poblacion": 10423054,
+        "gentilicio": "griego/a",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Albania", "Macedonia del Norte", "Bulgaria", "Turquía"],
+        "nombreNativo": "Ελλάδα (Elláda)",
+        "codigoNumerico": "300",
+        "moneda": "Euro",
+        "idiomas": ["Griego"],
+        "traducciones": {
+            "Inglés": "Greece",
+            "Francés": "Grèce",
+            "Alemán": "Griechenland"
+        },
+        "independencia": {
+            "fecha": "25 de marzo de 1821",
+            "detalles": "Independencia del Imperio Otomano."
+        },
+        "presidente": {
+            "nombre": "Katerina Sakellaropoulou",
+            "fechaDeAsunción": "2020",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Grecia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/360px-Flag_of_Greece.svg.png",
+            "descripcion": "Bandera de Grecia con nueve franjas alternas de azul y blanco."
+        }
+    },
+    {
+        "nombre": "Guatemala",
+        "codigoDeLlamada": "+502",
+        "capital": "Ciudad de Guatemala",
+        "ciudadesImportantes": ["Guatemala", "Quetzaltenango", "Escuintla"],
+        "region": "América",
+        "subRegion": "América Central",
+        "poblacion": 17915568,
+        "gentilicio": "guatemalteco/a",
+        "zonaHoraria": "UTC-6",
+        "fronteras": ["México", "Belice", "Honduras"],
+        "nombreNativo": "Guatemala",
+        "codigoNumerico": "320",
+        "moneda": "Quetzal",
+        "idiomas": ["Español"],
+        "traducciones": {
+            "Inglés": "Guatemala",
+            "Francés": "Guatémala",
+            "Alemán": "Guatemala"
+        },
+        "independencia": {
+            "fecha": "15 de septiembre de 1821",
+            "detalles": "Independencia de España."
+        },
+        "presidente": {
+            "nombre": "Bernardo Arévalo",
+            "fechaDeAsunción": "2023",
+            "partido": "Movimiento Semilla"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Guatemala."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/360px-Flag_of_Guatemala.svg.png",
+            "descripcion": "Bandera de Guatemala con franjas azul y blanca y el escudo nacional en el centro."
+        }
+    },
+    {
+        "nombre": "Guinea",
+        "codigoDeLlamada": "+224",
+        "capital": "Conakri",
+        "ciudadesImportantes": ["Conakri", "Kankan", "Kindia"],
+        "region": "África",
+        "subRegion": "África Occidental",
+        "poblacion": 13268985,
+        "gentilicio": "guineano/a",
+        "zonaHoraria": "UTC+0",
+        "fronteras": ["Guinea-Bisáu", "Senegal", "Mali", "Costa de Marfil", "Liberia"],
+        "nombreNativo": "Guinée",
+        "codigoNumerico": "324",
+        "moneda": "Franco guineano",
+        "idiomas": ["Francés"],
+        "traducciones": {
+            "Inglés": "Guinea",
+            "Francés": "Guinée",
+            "Alemán": "Guinea"
+        },
+        "independencia": {
+            "fecha": "2 de octubre de 1958",
+            "detalles": "Independencia de Francia."
+        },
+        "presidente": {
+            "nombre": "Col. Mamadi Doumbouya",
+            "fechaDeAsunción": "2021",
+            "partido": "Grupo de Defensa y Seguridad Nacional"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Guinea."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/270px-Flag_of_Guinea.svg.png",
+            "descripcion": "Bandera de Guinea con tres franjas verticales de rojo, amarillo y verde."
+        }
+    },
+    {
+        "nombre": "Guinea-Bisáu",
+        "codigoDeLlamada": "+245",
+        "capital": "Bissau",
+        "ciudadesImportantes": ["Bissau", "Cacheu", "Bafata"],
+        "region": "África",
+        "subRegion": "África Occidental",
+        "poblacion": 2051160,
+        "gentilicio": "guineano/a",
+        "zonaHoraria": "UTC-1",
+        "fronteras": ["Guinea", "Senegal"],
+        "nombreNativo": "Guiné-Bissau",
+        "codigoNumerico": "624",
+        "moneda": "Franco CFA de África Occidental",
+        "idiomas": ["Portugués"],
+        "traducciones": {
+            "Inglés": "Guinea-Bissau",
+            "Francés": "Guinée-Bissau",
+            "Alemán": "Guinea-Bissau"
+        },
+        "independencia": {
+            "fecha": "24 de septiembre de 1973",
+            "detalles": "Independencia de Portugal."
+        },
+        "presidente": {
+            "nombre": "Umaro Sissoco Embaló",
+            "fechaDeAsunción": "2020",
+            "partido": "Movimiento para la Restauración de la Independencia Nacional"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Guinea-Bisáu."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/360px-Flag_of_Guinea-Bissau.svg.png",
+            "descripcion": "Bandera de Guinea-Bisáu con franjas verticales de amarillo y rojo, y una estrella negra."
+        }
+    },
+    {
+        "nombre": "Guinea Ecuatorial",
+        "codigoDeLlamada": "+240",
+        "capital": "Malabo",
+        "ciudadesImportantes": ["Malabo", "Bata", "Ebebiyin"],
+        "region": "África",
+        "subRegion": "África Central",
+        "poblacion": 1402985,
+        "gentilicio": "guineano/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Camerún", "Gabón"],
+        "nombreNativo": "Guinea Ecuatorial",
+        "codigoNumerico": "226",
+        "moneda": "Franco CFA de África Central",
+        "idiomas": ["Español", "Francés", "Portugués"],
+        "traducciones": {
+            "Inglés": "Equatorial Guinea",
+            "Francés": "Guinée équatoriale",
+            "Alemán": "Äquatorialguinea"
+        },
+        "independencia": {
+            "fecha": "12 de octubre de 1968",
+            "detalles": "Independencia de España."
+        },
+        "presidente": {
+            "nombre": "Teodoro Obiang Nguema Mbasogo",
+            "fechaDeAsunción": "1979",
+            "partido": "Partido Democrático de Guinea Ecuatorial"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Guinea Ecuatorial."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/270px-Flag_of_Equatorial_Guinea.svg.png",
+            "descripcion": "Bandera de Guinea Ecuatorial con tres franjas horizontales de verde, blanco y rojo, y un triángulo azul con una estrella en el centro."
+        }
+    },
+    {
+        "nombre": "Guyana",
+        "codigoDeLlamada": "+592",
+        "capital": "Georgetown",
+        "ciudadesImportantes": ["Georgetown", "Linden", "New Amsterdam"],
+        "region": "América",
+        "subRegion": "América del Sur",
+        "poblacion": 786552,
+        "gentilicio": "guianés/a",
+        "zonaHoraria": "UTC-4",
+        "fronteras": ["Venezuela", "Brasil", "Surinam"],
+        "nombreNativo": "Guyana",
+        "codigoNumerico": "328",
+        "moneda": "Dólar guyanés",
+        "idiomas": ["Inglés"],
+        "traducciones": {
+            "Inglés": "Guyana",
+            "Francés": "Guyane",
+            "Alemán": "Guyana"
+        },
+        "independencia": {
+            "fecha": "26 de mayo de 1966",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Irfaan Ali",
+            "fechaDeAsunción": "2020",
+            "partido": "Partido Progresista del Pueblo"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Guyana."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/300px-Flag_of_Guyana.svg.png",
+            "descripcion": "Bandera de Guyana con un diseño de triángulo en la parte izquierda, en colores verde, amarillo, negro y rojo."
+        }
+    },
+    {
+        "nombre": "Haití",
+        "codigoDeLlamada": "+509",
+        "capital": "Puerto Príncipe",
+        "ciudadesImportantes": ["Puerto Príncipe", "Cap-Haïtien", "Gonaïves"],
+        "region": "América",
+        "subRegion": "Caribe",
+        "poblacion": 11577779,
+        "gentilicio": "haitiano/a",
+        "zonaHoraria": "UTC-5",
+        "fronteras": ["República Dominicana"],
+        "nombreNativo": "Haïti",
+        "codigoNumerico": "332",
+        "moneda": "Gourde haitiano",
+        "idiomas": ["Criollo haitiano", "Francés"],
+        "traducciones": {
+            "Inglés": "Haiti",
+            "Francés": "Haïti",
+            "Alemán": "Haiti"
+        },
+        "independencia": {
+            "fecha": "1 de enero de 1804",
+            "detalles": "Independencia de Francia."
+        },
+        "presidente": {
+            "nombre": "Ariel Henry (primer ministro)",
+            "fechaDeAsunción": "2021",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Haití."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/360px-Flag_of_Haiti.svg.png",
+            "descripcion": "Bandera de Haití con franjas azul y roja horizontales y el escudo en el centro."
+        }
+    },
+    {
+        "nombre": "Hungría",
+        "codigoDeLlamada": "+36",
+        "capital": "Budapest",
+        "ciudadesImportantes": ["Budapest", "Debrecen", "Szeged"],
+        "region": "Europa",
+        "subRegion": "Europa Central",
+        "poblacion": 9749763,
+        "gentilicio": "húngaro/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Austria", "Eslovaquia", "Ucrania", "Rumania", "Serbia", "Croacia", "Eslovenia"],
+        "nombreNativo": "Magyarország",
+        "codigoNumerico": "348",
+        "moneda": "Forinto húngaro",
+        "idiomas": ["Húngaro"],
+        "traducciones": {
+            "Inglés": "Hungary",
+            "Francés": "Hongrie",
+            "Alemán": "Ungarn"
+        },
+        "independencia": {
+            "fecha": "23 de octubre de 1989",
+            "detalles": "Restauración de la República."
+        },
+        "presidente": {
+            "nombre": "Katalin Novák",
+            "fechaDeAsunción": "2022",
+            "partido": "Fidesz"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Hungría."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/360px-Flag_of_Hungary.svg.png",
+            "descripcion": "Bandera de Hungría con franjas horizontales de rojo, blanco y verde."
+        }
+    },
+    {
+        "nombre": "Honduras",
+        "codigoDeLlamada": "+504",
+        "capital": "Tegucigalpa",
+        "ciudadesImportantes": ["Tegucigalpa", "San Pedro Sula", "La Ceiba"],
+        "region": "América",
+        "subRegion": "América Central",
+        "poblacion": 10143538,
+        "gentilicio": "hondureño/a",
+        "zonaHoraria": "UTC-6",
+        "fronteras": ["Guatemala", "El Salvador", "Nicaragua"],
+        "nombreNativo": "Honduras",
+        "codigoNumerico": "340",
+        "moneda": "Lempira",
+        "idiomas": ["Español"],
+        "traducciones": {
+            "Inglés": "Honduras",
+            "Francés": "Honduras",
+            "Alemán": "Honduras"
+        },
+        "independencia": {
+            "fecha": "15 de septiembre de 1821",
+            "detalles": "Independencia de España."
+        },
+        "presidente": {
+            "nombre": "Xiomara Castro",
+            "fechaDeAsunción": "2022",
+            "partido": "Libre"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Honduras."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/360px-Flag_of_Honduras.svg.png",
+            "descripcion": "Bandera de Honduras con franjas horizontales azul y blanca, y cinco estrellas en el centro."
+        }
+    },
+    {
+        "nombre": "India",
+        "codigoDeLlamada": "+91",
+        "capital": "Nueva Delhi",
+        "ciudadesImportantes": ["Mumbai", "Bangalore", "Chennai", "Kolkata"],
+        "region": "Asia",
+        "subRegion": "Asia Meridional",
+        "poblacion": 1400000000,
+        "gentilicio": "indio/a",
+        "zonaHoraria": "UTC+5:30",
+        "fronteras": ["Pakistán", "China", "Nepal", "Bután", "Bangladesh", "Myanmar"],
+        "nombreNativo": "भारत",
+        "codigoNumerico": "356",
+        "moneda": "Rupia india",
+        "idiomas": ["Hindi", "Inglés"],
+        "traducciones": {
+            "Inglés": "India",
+            "Francés": "Inde",
+            "Alemán": "Indien"
+        },
+        "independencia": {
+            "fecha": "15 de agosto de 1947",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Droupadi Murmu",
+            "fechaDeAsunción": "2022",
+            "partido": "BJP"
+        },
+        "deporte": {
+            "deportePopular": "Críquet",
+            "detalles": "El críquet es el deporte más popular en India."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/320px-Flag_of_India.svg.png",
+            "descripcion": "Bandera de India con franjas horizontales naranja, blanco y verde con una rueda azul en el centro."
+        }
+    },
+    {
+        "nombre": "Indonesia",
+        "codigoDeLlamada": "+62",
+        "capital": "Yakarta",
+        "ciudadesImportantes": ["Surabaya", "Bandung", "Medan"],
+        "region": "Asia",
+        "subRegion": "Sudeste Asiático",
+        "poblacion": 276361783,
+        "gentilicio": "indonesio/a",
+        "zonaHoraria": "UTC+7 a UTC+9",
+        "fronteras": ["Papúa Nueva Guinea", "Timor Oriental", "Malasia"],
+        "nombreNativo": "Indonesia",
+        "codigoNumerico": "360",
+        "moneda": "Rupia indonesia",
+        "idiomas": ["Indonesio"],
+        "traducciones": {
+            "Inglés": "Indonesia",
+            "Francés": "Indonésie",
+            "Alemán": "Indonesien"
+        },
+        "independencia": {
+            "fecha": "17 de agosto de 1945",
+            "detalles": "Independencia de los Países Bajos."
+        },
+        "presidente": {
+            "nombre": "Joko Widodo",
+            "fechaDeAsunción": "2014",
+            "partido": "PDI-P"
+        },
+        "deporte": {
+            "deportePopular": "Bádminton",
+            "detalles": "El bádminton es muy popular en Indonesia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/320px-Flag_of_Indonesia.svg.png",
+            "descripcion": "Bandera de Indonesia con dos franjas horizontales de rojo y blanco."
+        }
+    },
+    {
+        "nombre": "Irak",
+        "codigoDeLlamada": "+964",
+        "capital": "Bagdad",
+        "ciudadesImportantes": ["Mosul", "Basora", "Erbil"],
+        "region": "Asia",
+        "subRegion": "Asia Occidental",
+        "poblacion": 40222503,
+        "gentilicio": "iraquí",
+        "zonaHoraria": "UTC+3",
+        "fronteras": ["Turquía", "Irán", "Kuwait", "Arabia Saudita", "Jordania", "Siria"],
+        "nombreNativo": "العراق",
+        "codigoNumerico": "368",
+        "moneda": "Dinar iraquí",
+        "idiomas": ["Árabe", "Kurdo"],
+        "traducciones": {
+            "Inglés": "Iraq",
+            "Francés": "Irak",
+            "Alemán": "Irak"
+        },
+        "independencia": {
+            "fecha": "3 de octubre de 1932",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Abdul Latif Rashid",
+            "fechaDeAsunción": "2022",
+            "partido": "Unión Patriótica del Kurdistán"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Irak."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/320px-Flag_of_Iraq.svg.png",
+            "descripcion": "Bandera de Irak con franjas horizontales de rojo, blanco y negro con inscripción árabe."
+        }
+    },
+    {
+        "nombre": "Irán",
+        "codigoDeLlamada": "+98",
+        "capital": "Teherán",
+        "ciudadesImportantes": ["Mashhad", "Isfahán", "Shiraz"],
+        "region": "Asia",
+        "subRegion": "Asia Occidental",
+        "poblacion": 85766580,
+        "gentilicio": "iraní",
+        "zonaHoraria": "UTC+3:30",
+        "fronteras": ["Afganistán", "Armenia", "Azerbaiyán", "Irak", "Pakistán", "Turkmenistán", "Turquía"],
+        "nombreNativo": "ایران",
+        "codigoNumerico": "364",
+        "moneda": "Rial iraní",
+        "idiomas": ["Persa"],
+        "traducciones": {
+            "Inglés": "Iran",
+            "Francés": "Iran",
+            "Alemán": "Iran"
+        },
+        "independencia": {
+            "fecha": "N/A",
+            "detalles": "La independencia de Irán no está definida por una fecha concreta debido a su antigüedad histórica."
+        },
+        "presidente": {
+            "nombre": "Ebrahim Raisi",
+            "fechaDeAsunción": "2021",
+            "partido": "Sociedad del Clero Combatiente"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Irán."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/320px-Flag_of_Iran.svg.png",
+            "descripcion": "Bandera de Irán con franjas verdes, blancas y rojas con un emblema y escritura en el borde."
+        }
+    },
+    {
+        "nombre": "República de Irlanda",
+        "codigoDeLlamada": "+353",
+        "capital": "Dublín",
+        "ciudadesImportantes": ["Cork", "Limerick", "Galway"],
+        "region": "Europa",
+        "subRegion": "Europa Occidental",
+        "poblacion": 5034866,
+        "gentilicio": "irlandés/a",
+        "zonaHoraria": "UTC+0",
+        "fronteras": ["Reino Unido (Irlanda del Norte)"],
+        "nombreNativo": "Éire",
+        "codigoNumerico": "372",
+        "moneda": "Euro",
+        "idiomas": ["Inglés", "Irlandés"],
+        "traducciones": {
+            "Inglés": "Ireland",
+            "Francés": "Irlande",
+            "Alemán": "Irland"
+        },
+        "independencia": {
+            "fecha": "6 de diciembre de 1922",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Michael D. Higgins",
+            "fechaDeAsunción": "2011",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol gaélico",
+            "detalles": "El fútbol gaélico es el deporte más popular en Irlanda."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/320px-Flag_of_Ireland.svg.png",
+            "descripcion": "Bandera de Irlanda con franjas verticales de verde, blanco y naranja."
+        }
+    },
+    {
+        "nombre": "Islandia",
+        "codigoDeLlamada": "+354",
+        "capital": "Reikiavik",
+        "ciudadesImportantes": ["Akureyri", "Keflavík"],
+        "region": "Europa",
+        "subRegion": "Europa del Norte",
+        "poblacion": 376248,
+        "gentilicio": "islandés/a",
+        "zonaHoraria": "UTC+0",
+        "fronteras": [],
+        "nombreNativo": "Ísland",
+        "codigoNumerico": "352",
+        "moneda": "Corona islandesa",
+        "idiomas": ["Islandés"],
+        "traducciones": {
+            "Inglés": "Iceland",
+            "Francés": "Islande",
+            "Alemán": "Island"
+        },
+        "independencia": {
+            "fecha": "17 de junio de 1944",
+            "detalles": "Independencia de Dinamarca."
+        },
+        "presidente": {
+            "nombre": "Guðni Th. Jóhannesson",
+            "fechaDeAsunción": "2016",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es uno de los deportes más populares en Islandia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/320px-Flag_of_Iceland.svg.png",
+            "descripcion": "Bandera de Islandia con una cruz roja sobre fondo blanco y azul."
+        }
+    },
+    {
+        "nombre": "Islas Marshall",
+        "codigoDeLlamada": "+692",
+        "capital": "Majuro",
+        "ciudadesImportantes": ["Ebeye", "Laura"],
+        "region": "Oceanía",
+        "subRegion": "Micronesia",
+        "poblacion": 59190,
+        "gentilicio": "marshalés/a",
+        "zonaHoraria": "UTC+12",
+        "fronteras": [],
+        "nombreNativo": "Aolepān Aorōkin M̧ajeļ",
+        "codigoNumerico": "584",
+        "moneda": "Dólar estadounidense",
+        "idiomas": ["Marshalés", "Inglés"],
+        "traducciones": {
+            "Inglés": "Marshall Islands",
+            "Francés": "Îles Marshall",
+            "Alemán": "Marshallinseln"
+        },
+        "independencia": {
+            "fecha": "21 de octubre de 1986",
+            "detalles": "Independencia de los Estados Unidos mediante el Pacto de Libre Asociación."
+        },
+        "presidente": {
+            "nombre": "David Kabua",
+            "fechaDeAsunción": "2020",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Canoas tradicionales",
+            "detalles": "Las canoas y la navegación son importantes tradiciones culturales en las Islas Marshall."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/320px-Flag_of_the_Marshall_Islands.svg.png",
+            "descripcion": "Bandera de las Islas Marshall con fondo azul, rayos blancos y naranjas y una estrella blanca en la esquina superior izquierda."
+        }
+    },
+    {
+        "nombre": "Islas Salomón",
+        "codigoDeLlamada": "+677",
+        "capital": "Honiara",
+        "ciudadesImportantes": ["Gizo", "Auki", "Tulagi"],
+        "region": "Oceanía",
+        "subRegion": "Melanesia",
+        "poblacion": 652857,
+        "gentilicio": "salomonense",
+        "zonaHoraria": "UTC+11",
+        "fronteras": [],
+        "nombreNativo": "Solomon Islands",
+        "codigoNumerico": "090",
+        "moneda": "Dólar salomonense",
+        "idiomas": ["Inglés"],
+        "traducciones": {
+            "Inglés": "Solomon Islands",
+            "Francés": "Îles Salomon",
+            "Alemán": "Salomonen"
+        },
+        "independencia": {
+            "fecha": "7 de julio de 1978",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Manasseh Sogavare",
+            "fechaDeAsunción": "2019",
+            "partido": "Partido de la Unidad Democrática"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en las Islas Salomón."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/320px-Flag_of_the_Solomon_Islands.svg.png",
+            "descripcion": "Bandera de las Islas Salomón con fondo verde y azul, separadas por una franja amarilla diagonal, y cinco estrellas blancas en la esquina superior izquierda."
+        }
+    },
+    {
+        "nombre": "Italia",
+        "codigoDeLlamada": "+39",
+        "capital": "Roma",
+        "ciudadesImportantes": ["Milán", "Nápoles", "Turín", "Florencia"],
+        "region": "Europa",
+        "subRegion": "Europa Meridional",
+        "poblacion": 60317116,
+        "gentilicio": "italiano/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Francia", "Suiza", "Austria", "Eslovenia", "San Marino", "Ciudad del Vaticano"],
+        "nombreNativo": "Italia",
+        "codigoNumerico": "380",
+        "moneda": "Euro",
+        "idiomas": ["Italiano"],
+        "traducciones": {
+            "Inglés": "Italy",
+            "Francés": "Italie",
+            "Alemán": "Italien"
+        },
+        "independencia": {
+            "fecha": "17 de marzo de 1861",
+            "detalles": "Unificación de Italia."
+        },
+        "presidente": {
+            "nombre": "Sergio Mattarella",
+            "fechaDeAsunción": "2015",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Italia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/320px-Flag_of_Italy.svg.png",
+            "descripcion": "Bandera de Italia con franjas verticales de verde, blanco y rojo."
+        }
+    },
+    {
+        "nombre": "Israel",
+        "codigoDeLlamada": "+972",
+        "capital": "Jerusalén",
+        "ciudadesImportantes": ["Tel Aviv", "Haifa", "Eilat"],
+        "region": "Asia",
+        "subRegion": "Asia Occidental",
+        "poblacion": 9201000,
+        "gentilicio": "israelí",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Egipto", "Jordania", "Líbano", "Siria"],
+        "nombreNativo": "יִשְׂרָאֵל",
+        "codigoNumerico": "376",
+        "moneda": "Nuevo shekel israelí",
+        "idiomas": ["Hebreo", "Árabe"],
+        "traducciones": {
+            "Inglés": "Israel",
+            "Francés": "Israël",
+            "Alemán": "Israel"
+        },
+        "independencia": {
+            "fecha": "14 de mayo de 1948",
+            "detalles": "Independencia del Mandato Británico de Palestina."
+        },
+        "presidente": {
+            "nombre": "Isaac Herzog",
+            "fechaDeAsunción": "2021",
+            "partido": "Partido Laborista"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Israel."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/320px-Flag_of_Israel.svg.png",
+            "descripcion": "Bandera de Israel con franjas horizontales azules y una estrella de David en el centro."
+        }
+    },
+    {
+        "nombre": "Jamaica",
+        "codigoDeLlamada": "+1-876",
+        "capital": "Kingston",
+        "ciudadesImportantes": ["Montego Bay", "Spanish Town", "Portmore"],
+        "region": "América",
+        "subRegion": "Caribe",
+        "poblacion": 2961167,
+        "gentilicio": "jamaicano/a",
+        "zonaHoraria": "UTC-5",
+        "fronteras": [],
+        "nombreNativo": "Jamaica",
+        "codigoNumerico": "388",
+        "moneda": "Dólar jamaiquino",
+        "idiomas": ["Inglés", "Patois jamaiquino"],
+        "traducciones": {
+            "Inglés": "Jamaica",
+            "Francés": "Jamaïque",
+            "Alemán": "Jamaika"
+        },
+        "independencia": {
+            "fecha": "6 de agosto de 1962",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Patrick Allen",
+            "fechaDeAsunción": "2009",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Atletismo",
+            "detalles": "El atletismo es muy popular, especialmente el sprint, con atletas mundialmente conocidos como Usain Bolt."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/320px-Flag_of_Jamaica.svg.png",
+            "descripcion": "Bandera de Jamaica con cruces diagonales amarillos, y triángulos verdes y negros."
+        }
+    },
+    {
+        "nombre": "Jordania",
+        "codigoDeLlamada": "+962",
+        "capital": "Ammán",
+        "ciudadesImportantes": ["Zarqa", "Irbid", "Aqaba"],
+        "region": "Asia",
+        "subRegion": "Asia Occidental",
+        "poblacion": 10203140,
+        "gentilicio": "jordano/a",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Arabia Saudita", "Irak", "Siria", "Israel"],
+        "nombreNativo": "الأردن",
+        "codigoNumerico": "400",
+        "moneda": "Dinar jordano",
+        "idiomas": ["Árabe"],
+        "traducciones": {
+            "Inglés": "Jordan",
+            "Francés": "Jordanie",
+            "Alemán": "Jordanien"
+        },
+        "independencia": {
+            "fecha": "25 de mayo de 1946",
+            "detalles": "Independencia del Mandato Británico."
+        },
+        "presidente": {
+            "nombre": "Abdullah II",
+            "fechaDeAsunción": "1999",
+            "partido": "Monarquía"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Jordania."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/320px-Flag_of_Jordan.svg.png",
+            "descripcion": "Bandera de Jordania con franjas horizontales de negro, blanco y verde, y un triángulo rojo con una estrella blanca."
+        }
+    },
+    {
+        "nombre": "Japón",
+        "codigoDeLlamada": "+81",
+        "capital": "Tokio",
+        "ciudadesImportantes": ["Osaka", "Kioto", "Yokohama", "Nagoya"],
+        "region": "Asia",
+        "subRegion": "Asia Oriental",
+        "poblacion": 125960000,
+        "gentilicio": "japonés/a",
+        "zonaHoraria": "UTC+9",
+        "fronteras": [],
+        "nombreNativo": "日本",
+        "codigoNumerico": "392",
+        "moneda": "Yen",
+        "idiomas": ["Japonés"],
+        "traducciones": {
+            "Inglés": "Japan",
+            "Francés": "Japon",
+            "Alemán": "Japan"
+        },
+        "independencia": {
+            "fecha": "660 a.C. (fundación tradicional)",
+            "detalles": "Japón no tiene una fecha moderna de independencia, ya que es una nación con una historia ininterrumpida de soberanía."
+        },
+        "presidente": {
+            "nombre": "Fumio Kishida",
+            "fechaDeAsunción": "2021",
+            "partido": "Partido Liberal Democrático"
+        },
+        "deporte": {
+            "deportePopular": "Béisbol",
+            "detalles": "El béisbol es uno de los deportes más populares en Japón, seguido de cerca por el fútbol."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/320px-Flag_of_Japan.svg.png",
+            "descripcion": "Bandera de Japón con un fondo blanco y un círculo rojo en el centro, simbolizando el sol."
+        }
+    },
+    {
+        "nombre": "Kazajistán",
+        "codigoDeLlamada": "+7",
+        "capital": "Astaná",
+        "ciudadesImportantes": ["Almatý", "Shymkent", "Karaganda"],
+        "region": "Asia",
+        "subRegion": "Asia Central",
+        "poblacion": 19170000,
+        "gentilicio": "kazajo/a",
+        "zonaHoraria": "UTC+5 a UTC+6",
+        "fronteras": ["Rusia", "China", "Kirguistán", "Uzbekistán", "Turkmenistán"],
+        "nombreNativo": "Қазақстан",
+        "codigoNumerico": "398",
+        "moneda": "Tenge",
+        "idiomas": ["Kazajo", "Ruso"],
+        "traducciones": {
+            "Inglés": "Kazakhstan",
+            "Francés": "Kazakhstan",
+            "Alemán": "Kasachstan"
+        },
+        "independencia": {
+            "fecha": "16 de diciembre de 1991",
+            "detalles": "Independencia de la Unión Soviética."
+        },
+        "presidente": {
+            "nombre": "Kassym-Jomart Tokayev",
+            "fechaDeAsunción": "2019",
+            "partido": "Nur Otan"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular, seguido del hockey sobre hielo y el boxeo."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/320px-Flag_of_Kazakhstan.svg.png",
+            "descripcion": "Bandera azul celeste con un sol dorado y un águila debajo de este."
+        }
+    },
+    {
+        "nombre": "Kenia",
+        "codigoDeLlamada": "+254",
+        "capital": "Nairobi",
+        "ciudadesImportantes": ["Mombasa", "Kisumu", "Nakuru"],
+        "region": "África",
+        "subRegion": "África Oriental",
+        "poblacion": 53771296,
+        "gentilicio": "keniano/a",
+        "zonaHoraria": "UTC+3",
+        "fronteras": ["Tanzania", "Uganda", "Sudán del Sur", "Etiopía", "Somalia"],
+        "nombreNativo": "Kenya",
+        "codigoNumerico": "404",
+        "moneda": "Chelín keniano",
+        "idiomas": ["Inglés", "Suajili"],
+        "traducciones": {
+            "Inglés": "Kenya",
+            "Francés": "Kenya",
+            "Alemán": "Kenia"
+        },
+        "independencia": {
+            "fecha": "12 de diciembre de 1963",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "William Ruto",
+            "fechaDeAsunción": "2022",
+            "partido": "UDA"
+        },
+        "deporte": {
+            "deportePopular": "Atletismo",
+            "detalles": "El atletismo, particularmente las carreras de fondo, es muy popular y ha producido atletas olímpicos."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/320px-Flag_of_Kenya.svg.png",
+            "descripcion": "Bandera de Kenia con franjas horizontales negras, rojas y verdes, y un escudo en el centro."
+        }
+    },
+    {
+        "nombre": "Kirguistán",
+        "codigoDeLlamada": "+996",
+        "capital": "Biskek",
+        "ciudadesImportantes": ["Osh", "Jalal-Abad", "Karakol"],
+        "region": "Asia",
+        "subRegion": "Asia Central",
+        "poblacion": 6523500,
+        "gentilicio": "kirguís",
+        "zonaHoraria": "UTC+6",
+        "fronteras": ["Kazajistán", "Uzbekistán", "Tayikistán", "China"],
+        "nombreNativo": "Кыргызстан",
+        "codigoNumerico": "417",
+        "moneda": "Som kirguís",
+        "idiomas": ["Kirguís", "Ruso"],
+        "traducciones": {
+            "Inglés": "Kyrgyzstan",
+            "Francés": "Kirghizstan",
+            "Alemán": "Kirgisistan"
+        },
+        "independencia": {
+            "fecha": "31 de agosto de 1991",
+            "detalles": "Independencia de la Unión Soviética."
+        },
+        "presidente": {
+            "nombre": "Sadyr Japarov",
+            "fechaDeAsunción": "2021",
+            "partido": "Mekenchil"
+        },
+        "deporte": {
+            "deportePopular": "Lucha",
+            "detalles": "La lucha libre y el fútbol son los deportes más populares en el país."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/320px-Flag_of_Kyrgyzstan.svg.png",
+            "descripcion": "Bandera roja con un sol amarillo de 40 rayos en el centro y un anillo con una yurta en el medio."
+        }
+    },
+    {
+        "nombre": "Kiribati",
+        "codigoDeLlamada": "+686",
+        "capital": "Tarawa",
+        "ciudadesImportantes": ["Betio", "Bikenibeu", "Tabwakea"],
+        "region": "Oceanía",
+        "subRegion": "Micronesia",
+        "poblacion": 119940,
+        "gentilicio": "kiribatiano/a",
+        "zonaHoraria": "UTC+12 a UTC+14",
+        "fronteras": [],
+        "nombreNativo": "Kiribati",
+        "codigoNumerico": "296",
+        "moneda": "Dólar australiano",
+        "idiomas": ["Inglés", "Gilbertés"],
+        "traducciones": {
+            "Inglés": "Kiribati",
+            "Francés": "Kiribati",
+            "Alemán": "Kiribati"
+        },
+        "independencia": {
+            "fecha": "12 de julio de 1979",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Taneti Maamau",
+            "fechaDeAsunción": "2016",
+            "partido": "Tobwaan Kiribati"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Kiribati."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/320px-Flag_of_Kiribati.svg.png",
+            "descripcion": "Bandera con franjas azules y blancas onduladas en la parte inferior, y un sol dorado con un ave volando en la parte superior roja."
+        }
+    },
+    {
+        "nombre": "Kuwait",
+        "codigoDeLlamada": "+965",
+        "capital": "Kuwait",
+        "ciudadesImportantes": ["Al Ahmadi", "Hawalli", "Al Jahra"],
+        "region": "Asia",
+        "subRegion": "Asia Occidental",
+        "poblacion": 4420110,
+        "gentilicio": "kuwaití",
+        "zonaHoraria": "UTC+3",
+        "fronteras": ["Irak", "Arabia Saudita"],
+        "nombreNativo": "الكويت",
+        "codigoNumerico": "414",
+        "moneda": "Dinar kuwaití",
+        "idiomas": ["Árabe"],
+        "traducciones": {
+            "Inglés": "Kuwait",
+            "Francés": "Koweït",
+            "Alemán": "Kuwait"
+        },
+        "independencia": {
+            "fecha": "19 de junio de 1961",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Nawaf Al-Ahmad Al-Jaber Al-Sabah",
+            "fechaDeAsunción": "2020",
+            "partido": "Monarquía"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Kuwait."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/320px-Flag_of_Kuwait.svg.png",
+            "descripcion": "Bandera con franjas horizontales verdes, blancas y rojas, y un trapecio negro en el lado del asta."
+        }
+    },
+    {
+        "nombre": "Laos",
+        "codigoDeLlamada": "+856",
+        "capital": "Vientián",
+        "ciudadesImportantes": ["Luang Prabang", "Pakse", "Savannakhet"],
+        "region": "Asia",
+        "subRegion": "Sudeste Asiático",
+        "poblacion": 7275556,
+        "gentilicio": "laosiano/a",
+        "zonaHoraria": "UTC+7",
+        "fronteras": ["China", "Birmania", "Tailandia", "Camboya", "Vietnam"],
+        "nombreNativo": "ສປປລາວ",
+        "codigoNumerico": "418",
+        "moneda": "Kip",
+        "idiomas": ["Lao"],
+        "traducciones": {
+            "Inglés": "Laos",
+            "Francés": "Laos",
+            "Alemán": "Laos"
+        },
+        "independencia": {
+            "fecha": "22 de octubre de 1953",
+            "detalles": "Independencia de Francia."
+        },
+        "presidente": {
+            "nombre": "Thongloun Sisoulith",
+            "fechaDeAsunción": "2021",
+            "partido": "Partido Popular Revolucionario Lao"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Laos."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/320px-Flag_of_Laos.svg.png",
+            "descripcion": "Bandera con franjas horizontales roja, azul y roja, con un círculo blanco en el centro."
+        }
+    },
+    {
+        "nombre": "Lesoto",
+        "codigoDeLlamada": "+266",
+        "capital": "Maseru",
+        "ciudadesImportantes": ["Mafeteng", "Teyateyaneng", "Hlotse"],
+        "region": "África",
+        "subRegion": "África Meridional",
+        "poblacion": 2142249,
+        "gentilicio": "lesotense",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Sudáfrica"],
+        "nombreNativo": "Lesotho",
+        "codigoNumerico": "426",
+        "moneda": "Loti",
+        "idiomas": ["Sesoto", "Inglés"],
+        "traducciones": {
+            "Inglés": "Lesotho",
+            "Francés": "Lesotho",
+            "Alemán": "Lesotho"
+        },
+        "independencia": {
+            "fecha": "4 de octubre de 1966",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Sam Matekane",
+            "fechaDeAsunción": "2022",
+            "partido": "Revolution for Prosperity"
+        },
+        "deporte": {
+            "deportePopular": "Atletismo",
+            "detalles": "El atletismo es muy popular, junto con el fútbol."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/320px-Flag_of_Lesotho.svg.png",
+            "descripcion": "Bandera con franjas horizontales azul, blanca y verde, con un sombrero Basotho negro en el centro."
+        }
+    },
+    {
+        "nombre": "Letonia",
+        "codigoDeLlamada": "+371",
+        "capital": "Riga",
+        "ciudadesImportantes": ["Daugavpils", "Liepāja", "Jūrmala"],
+        "region": "Europa",
+        "subRegion": "Europa del Norte",
+        "poblacion": 1901548,
+        "gentilicio": "letón/a",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Estonia", "Lituania", "Rusia", "Bielorrusia"],
+        "nombreNativo": "Latvija",
+        "codigoNumerico": "428",
+        "moneda": "Euro",
+        "idiomas": ["Letón"],
+        "traducciones": {
+            "Inglés": "Latvia",
+            "Francés": "Lettonie",
+            "Alemán": "Lettland"
+        },
+        "independencia": {
+            "fecha": "18 de noviembre de 1918",
+            "detalles": "Declaración de independencia del Imperio Ruso."
+        },
+        "presidente": {
+            "nombre": "Edgars Rinkēvičs",
+            "fechaDeAsunción": "2023",
+            "partido": "Nueva Unidad"
+        },
+        "deporte": {
+            "deportePopular": "Hockey sobre hielo",
+            "detalles": "El hockey sobre hielo es el deporte nacional más popular."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/320px-Flag_of_Latvia.svg.png",
+            "descripcion": "Bandera con dos franjas horizontales granates con una franja blanca en el centro."
+        }
+    },
+    {
+        "nombre": "Líbano",
+        "codigoDeLlamada": "+961",
+        "capital": "Beirut",
+        "ciudadesImportantes": ["Trípoli", "Sidón", "Tiro"],
+        "region": "Asia",
+        "subRegion": "Asia Occidental",
+        "poblacion": 6825442,
+        "gentilicio": "libanés/esa",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Siria", "Israel"],
+        "nombreNativo": "لبنان",
+        "codigoNumerico": "422",
+        "moneda": "Libra libanesa",
+        "idiomas": ["Árabe"],
+        "traducciones": {
+            "Inglés": "Lebanon",
+            "Francés": "Liban",
+            "Alemán": "Libanon"
+        },
+        "independencia": {
+            "fecha": "22 de noviembre de 1943",
+            "detalles": "Independencia de Francia."
+        },
+        "presidente": {
+            "nombre": "Vacante",
+            "fechaDeAsunción": "2023",
+            "partido": "Varía según las elecciones"
+        },
+        "deporte": {
+            "deportePopular": "Baloncesto",
+            "detalles": "El baloncesto es uno de los deportes más populares, junto con el fútbol."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/320px-Flag_of_Lebanon.svg.png",
+            "descripcion": "Bandera con dos franjas rojas y una franja blanca en el centro con un cedro verde."
+        }
+    },
+    {
+        "nombre": "Liberia",
+        "codigoDeLlamada": "+231",
+        "capital": "Monrovia",
+        "ciudadesImportantes": ["Gbarnga", "Buchanan", "Harper"],
+        "region": "África",
+        "subRegion": "África Occidental",
+        "poblacion": 5057681,
+        "gentilicio": "liberiano/a",
+        "zonaHoraria": "UTC+0",
+        "fronteras": ["Sierra Leona", "Guinea", "Costa de Marfil"],
+        "nombreNativo": "Liberia",
+        "codigoNumerico": "430",
+        "moneda": "Dólar liberiano",
+        "idiomas": ["Inglés"],
+        "traducciones": {
+            "Inglés": "Liberia",
+            "Francés": "Libéria",
+            "Alemán": "Liberia"
+        },
+        "independencia": {
+            "fecha": "26 de julio de 1847",
+            "detalles": "Declaración de independencia."
+        },
+        "presidente": {
+            "nombre": "George Weah",
+            "fechaDeAsunción": "2018",
+            "partido": "Congreso por el Cambio Democrático"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Liberia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/320px-Flag_of_Liberia.svg.png",
+            "descripcion": "Bandera con rayas horizontales rojas y blancas y un cuadrado azul con una estrella blanca en la esquina superior izquierda."
+        }
+    },
+    {
+        "nombre": "Libia",
+        "codigoDeLlamada": "+218",
+        "capital": "Trípoli",
+        "ciudadesImportantes": ["Bengasi", "Misurata", "Sirte"],
+        "region": "África",
+        "subRegion": "África del Norte",
+        "poblacion": 6871292,
+        "gentilicio": "libio/a",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Argelia", "Chad", "Egipto", "Níger", "Sudán", "Túnez"],
+        "nombreNativo": "ليبيا",
+        "codigoNumerico": "434",
+        "moneda": "Dinar libio",
+        "idiomas": ["Árabe"],
+        "traducciones": {
+            "Inglés": "Libya",
+            "Francés": "Libye",
+            "Alemán": "Libyen"
+        },
+        "independencia": {
+            "fecha": "24 de diciembre de 1951",
+            "detalles": "Independencia del Reino Unido bajo la ONU."
+        },
+        "presidente": {
+            "nombre": "Mohamed al-Menfi",
+            "fechaDeAsunción": "2021",
+            "partido": "Consejo Presidencial"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Libia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/320px-Flag_of_Libya.svg.png",
+            "descripcion": "Bandera con franjas horizontales roja, negra (con una media luna y estrella blancas) y verde."
+        }
+    },
+    {
+        "nombre": "Liechtenstein",
+        "codigoDeLlamada": "+423",
+        "capital": "Vaduz",
+        "ciudadesImportantes": ["Schaan", "Balzers", "Triesen"],
+        "region": "Europa",
+        "subRegion": "Europa Occidental",
+        "poblacion": 38380,
+        "gentilicio": "liechtensteiniano/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Suiza", "Austria"],
+        "nombreNativo": "Liechtenstein",
+        "codigoNumerico": "438",
+        "moneda": "Franco suizo",
+        "idiomas": ["Alemán"],
+        "traducciones": {
+            "Inglés": "Liechtenstein",
+            "Francés": "Liechtenstein",
+            "Alemán": "Liechtenstein"
+        },
+        "independencia": {
+            "fecha": "12 de julio de 1806",
+            "detalles": "Independencia del Sacro Imperio Romano Germánico."
+        },
+        "presidente": {
+            "nombre": "Alois de Liechtenstein",
+            "fechaDeAsunción": "2004",
+            "partido": "Monarquía constitucional"
+        },
+        "deporte": {
+            "deportePopular": "Esquí",
+            "detalles": "El esquí es muy popular debido a las montañas que rodean el país."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/320px-Flag_of_Liechtenstein.svg.png",
+            "descripcion": "Bandera con franjas horizontales azul y roja con una corona dorada en el cuadrante superior izquierdo."
+        }
+    },
+    {
+        "nombre": "Lituania",
+        "codigoDeLlamada": "+370",
+        "capital": "Vilna",
+        "ciudadesImportantes": ["Kaunas", "Klaipėda", "Šiauliai"],
+        "region": "Europa",
+        "subRegion": "Europa del Norte",
+        "poblacion": 2794700,
+        "gentilicio": "lituano/a",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Bielorrusia", "Letonia", "Polonia", "Rusia"],
+        "nombreNativo": "Lietuva",
+        "codigoNumerico": "440",
+        "moneda": "Euro",
+        "idiomas": ["Lituano"],
+        "traducciones": {
+            "Inglés": "Lithuania",
+            "Francés": "Lituanie",
+            "Alemán": "Litauen"
+        },
+        "independencia": {
+            "fecha": "16 de febrero de 1918",
+            "detalles": "Independencia del Imperio Ruso."
+        },
+        "presidente": {
+            "nombre": "Gitanas Nausėda",
+            "fechaDeAsunción": "2019",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Baloncesto",
+            "detalles": "El baloncesto es el deporte más popular en Lituania."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/320px-Flag_of_Lithuania.svg.png",
+            "descripcion": "Bandera con tres franjas horizontales: amarilla, verde y roja."
+        }
+    },
+    {
+        "nombre": "Luxemburgo",
+        "codigoDeLlamada": "+352",
+        "capital": "Ciudad de Luxemburgo",
+        "ciudadesImportantes": ["Esch-sur-Alzette", "Differdange", "Dudelange"],
+        "region": "Europa",
+        "subRegion": "Europa Occidental",
+        "poblacion": 634814,
+        "gentilicio": "luxemburgués/esa",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Alemania", "Bélgica", "Francia"],
+        "nombreNativo": "Lëtzebuerg",
+        "codigoNumerico": "442",
+        "moneda": "Euro",
+        "idiomas": ["Luxemburgués", "Francés", "Alemán"],
+        "traducciones": {
+            "Inglés": "Luxembourg",
+            "Francés": "Luxembourg",
+            "Alemán": "Luxemburg"
+        },
+        "independencia": {
+            "fecha": "19 de abril de 1839",
+            "detalles": "Tratado de Londres, reconocimiento de la independencia."
+        },
+        "presidente": {
+            "nombre": "Xavier Bettel",
+            "fechaDeAsunción": "2013",
+            "partido": "Demócrata"
+        },
+        "deporte": {
+            "deportePopular": "Ciclismo",
+            "detalles": "El ciclismo es uno de los deportes más populares en Luxemburgo."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/320px-Flag_of_Luxembourg.svg.png",
+            "descripcion": "Bandera con tres franjas horizontales: roja, blanca y azul claro."
+        }
+    },
+    {
+        "nombre": "Macedonia del Norte",
+        "codigoDeLlamada": "+389",
+        "capital": "Skopie",
+        "ciudadesImportantes": ["Bitola", "Kumanovo", "Prilep"],
+        "region": "Europa",
+        "subRegion": "Europa del Sureste",
+        "poblacion": 2076255,
+        "gentilicio": "macedonio/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": ["Albania", "Bulgaria", "Grecia", "Kosovo", "Serbia"],
+        "nombreNativo": "Северна Македонија",
+        "codigoNumerico": "807",
+        "moneda": "Denar macedonio",
+        "idiomas": ["Macedonio"],
+        "traducciones": {
+            "Inglés": "North Macedonia",
+            "Francés": "Macédoine du Nord",
+            "Alemán": "Nordmazedonien"
+        },
+        "independencia": {
+            "fecha": "8 de septiembre de 1991",
+            "detalles": "Independencia de Yugoslavia."
+        },
+        "presidente": {
+            "nombre": "Stevo Pendarovski",
+            "fechaDeAsunción": "2019",
+            "partido": "Unión Socialdemócrata"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Macedonia del Norte."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/360px-Flag_of_North_Macedonia.svg.png",
+            "descripcion": "Bandera roja con un sol amarillo con rayos extendiéndose hasta los bordes."
+        }
+    },
+    {
+        "nombre": "Madagascar",
+        "codigoDeLlamada": "+261",
+        "capital": "Antananarivo",
+        "ciudadesImportantes": ["Toamasina", "Antsirabe", "Fianarantsoa"],
+        "region": "África",
+        "subRegion": "África del Este",
+        "poblacion": 27691018,
+        "gentilicio": "malgache",
+        "zonaHoraria": "UTC+3",
+        "fronteras": ["Océano Índico"],
+        "nombreNativo": "Madagasikara",
+        "codigoNumerico": "450",
+        "moneda": "Ariary malgache",
+        "idiomas": ["Malgache", "Francés"],
+        "traducciones": {
+            "Inglés": "Madagascar",
+            "Francés": "Madagascar",
+            "Alemán": "Madagaskar"
+        },
+        "independencia": {
+            "fecha": "26 de junio de 1960",
+            "detalles": "Independencia de Francia."
+        },
+        "presidente": {
+            "nombre": "Andry Rajoelina",
+            "fechaDeAsunción": "2019",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Madagascar."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/320px-Flag_of_Madagascar.svg.png",
+            "descripcion": "Bandera con franjas horizontales verde y roja y una franja blanca vertical."
+        }
+    },
+    {
+        "nombre": "Malasia",
+        "codigoDeLlamada": "+60",
+        "capital": "Kuala Lumpur",
+        "ciudadesImportantes": ["George Town", "Johor Bahru", "Ipoh"],
+        "region": "Asia",
+        "subRegion": "Sudeste Asiático",
+        "poblacion": 32722760,
+        "gentilicio": "malayo/a",
+        "zonaHoraria": "UTC+8",
+        "fronteras": ["Brunéi", "Indonesia", "Tailandia"],
+        "nombreNativo": "Malaysia",
+        "codigoNumerico": "458",
+        "moneda": "Ringgit malayo",
+        "idiomas": ["Malayo"],
+        "traducciones": {
+            "Inglés": "Malaysia",
+            "Francés": "Malaisie",
+            "Alemán": "Malaysia"
+        },
+        "independencia": {
+            "fecha": "31 de agosto de 1957",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Anwar Ibrahim",
+            "fechaDeAsunción": "2022",
+            "partido": "Pakatan Harapan"
+        },
+        "deporte": {
+            "deportePopular": "Bádminton",
+            "detalles": "El bádminton es uno de los deportes más populares en Malasia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/320px-Flag_of_Malaysia.svg.png",
+            "descripcion": "Bandera con franjas rojas y blancas horizontales y un cantón azul con una media luna y estrella amarilla."
+        }
+    },
+    {
+        "nombre": "Malaui",
+        "codigoDeLlamada": "+265",
+        "capital": "Lilongüe",
+        "ciudadesImportantes": ["Blantire", "Mzuzu", "Zomba"],
+        "region": "África",
+        "subRegion": "África del Este",
+        "poblacion": 19129952,
+        "gentilicio": "malauí",
+        "zonaHoraria": "UTC+2",
+        "fronteras": ["Mozambique", "Tanzania", "Zambia"],
+        "nombreNativo": "Malawi",
+        "codigoNumerico": "454",
+        "moneda": "Kwacha malauí",
+        "idiomas": ["Chichewa", "Inglés"],
+        "traducciones": {
+            "Inglés": "Malawi",
+            "Francés": "Malawi",
+            "Alemán": "Malawi"
+        },
+        "independencia": {
+            "fecha": "6 de julio de 1964",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Lazarus Chakwera",
+            "fechaDeAsunción": "2020",
+            "partido": "Partido del Congreso de Malaui"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más popular en Malaui."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/320px-Flag_of_Malawi.svg.png",
+            "descripcion": "Bandera con franjas horizontales negra, roja y verde, con un sol rojo naciente en la franja negra."
+        }
     }
+
 
 ]
