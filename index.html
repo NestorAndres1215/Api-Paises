@@ -4,51 +4,64 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>APi Países</title>
-    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;800&display=swap"
-        rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/main.css">
-    <link rel="stylesheet" href="css/custom-select.css">
+    <title>Paises del Mundo</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
-    <nav class="navbar">
-        <div class="container navbar-content">
-            <h1>PAISES DEL MUNDO</h1>
-            <button class="btn-dark-mode">
-                <i class="far fa-moon"></i>
-                Dark Mode
-            </button>
+    <div class="container">
+        <h1 class="text-center">Paises del Mundo</h1>
+
+        <!-- Select para elegir la región -->
+        <div class="container mt-4">
+            <div class="row justify-content-center">
+                <!-- Columna para el buscador -->
+                <div class="col-md-4 mb-3">
+                    <label for="searchInput">Buscar por nombre:</label>
+                    <input type="text" id="searchInput" class="form-control" placeholder="Ingresa el nombre del país">
+                </div>
+
+                <!-- Columna para el select de región -->
+                <div class="col-md-4 mb-3">
+                    <label for="regionSelect">Selecciona una región:</label>
+                    <select id="regionSelect" class="form-control">
+                        <option value="all">Todos</option>
+                        <option value="Americas">América</option>
+                        <option value="Europe">Europa</option>
+                        <option value="Asia">Asia</option>
+                        <option value="Africa">África</option>
+                        <option value="Oceania">Oceanía</option>
+                    </select>
+                </div>
+            </div>
         </div>
-    </nav>
 
-    <header class="container filter-content my-2">
-        <form class="form-search" id="formulario">
-            <i class="fas fa-search"></i>
-            <input type="text" placeholder="Ingresa País" id="inputFormulario">
-        </form>
-        <div class="custom-select" style="width:200px;">
-            <select>
-                <option value="">Filtrar por Región</option>
-                <option value="">Todos</option>
-                <option value="Africa">África</option>
-                <option value="Americas">America</option>
-                <option value="Asia">Asia</option>
-                <option value="Europe">Europa</option>
-                <option value="Oceania">Oceania</option>
-            </select>
+        <div class="row" id="countriesContainer">
+            <!-- Aquí se generarán las tarjetas de países -->
         </div>
-    </header>
+    </div>
 
-    <main class="container grid" id="banderas">
-    </main>
+    <!-- Modal -->
+    <div class="modal fade" id="countryModal" tabindex="-1" role="dialog" aria-labelledby="countryModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="card">
+                <div class="modal-content">
 
-    <script src="js/dark-mode.js"></script>
-    <script src="js/app.js"></script>
-    <script src="js/custom-select.js"></script>
-    <script src="js/formulario.js"></script>
+                    <div class="modal-body">
+                        <div id="modalContent"></div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </body>
 
 </html>

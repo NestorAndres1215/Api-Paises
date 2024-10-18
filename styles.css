@@ -1,0 +1,47 @@
+body {
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+.card {
+    margin-bottom: 20px; /* Espacio entre tarjetas */
+    height: 200px; /* Establecer altura fija para las tarjetas */
+}
+
+.card-img-top {
+    height: 140px; /* Altura fija para la imagen */
+    object-fit: cover; /* Asegura que la imagen mantenga su proporción */
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column; /* Asegura que el contenido se apile verticalmente */
+    justify-content: space-between; /* Espacio entre el título y el botón */
+    height: 100%; /* Asegura que el contenido esté centrado */
+}
+
+/* Ajustar el margen en las columnas */
+.col-md-3 {
+    padding: 10px; /* Espacio alrededor de cada tarjeta */
+}
+
+
+.modal-content {
+    border-radius: 8px; /* Bordes redondeados para el modal */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* Sombra suave */
+}
+
+.cardt {
+    margin-bottom: 00px; /* Espacio entre tarjetas */
+    height: 420px; /* Establecer altura fija para las tarjetas */
+    display: flex; /* Utilizar flexbox para alinear el contenido */
+    flex-direction: column; /* Alinear el contenido en columna */
+    justify-content: space-between; /* Espacio entre los elementos */
+    
+}
+.modal-dialog {
+    max-width: 800px; /* Ancho máximo del modal */
+}
+.card-body {
+    flex-grow: 1; /* Hacer que el cuerpo de la tarjeta ocupe el espacio disponible */
+}
