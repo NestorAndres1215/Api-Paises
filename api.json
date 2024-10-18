@@ -430,7 +430,7 @@
             "Mendoza",
             "La Plata"
         ],
-        "region": "América del Sur",
+        "region": "América",
         "subRegion": "América del Sur",
         "poblacion": 45195777,
         "gentilicio": "argentino/a",
@@ -8451,7 +8451,7 @@
             "Punta del Este",
             "Colonia del Sacramento"
         ],
-        "region": "América del Sur",
+        "region": "América ",
         "subRegion": "Cono Sur",
         "poblacion": 3484000,
         "gentilicio": "uruguayo/a",
@@ -8594,7 +8594,7 @@
             "Valencia",
             "Barquisimeto"
         ],
-        "region": "América del Sur",
+        "region": "América",
         "subRegion": "América del Sur",
         "poblacion": 28435943,
         "gentilicio": "venezolano/a",
@@ -8926,5 +8926,365 @@
             "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/320px-Flag_of_Zimbabwe.svg.png",
             "descripcion": "Bandera con franjas verdes, amarillas, rojas y negras, con un triángulo blanco y un águila."
         }
+    },
+    {
+        "nombre": "Namibia",
+        "codigoDeLlamada": "+264",
+        "capital": "Windhoek",
+        "ciudadesImportantes": [
+            "Windhoek",
+            "Walvis Bay",
+            "Swakopmund",
+            "Rundu",
+            "Oshakati"
+        ],
+        "region": "África",
+        "subRegion": "África Austral",
+        "poblacion": 2540905,
+        "gentilicio": "namibio/a",
+        "zonaHoraria": "UTC+2",
+        "fronteras": [
+            "Angola",
+            "Zambia",
+            "Botsuana",
+            "Sudáfrica"
+        ],
+        "nombreNativo": "Namibia",
+        "codigoNumerico": "516",
+        "moneda": "Dólar namibio",
+        "idiomas": [
+            "Inglés"
+        ],
+        "independencia": {
+            "fecha": "21 de marzo de 1990",
+            "detalles": "Independencia de Sudáfrica."
+        },
+        "presidente": {
+            "nombre": "Hage Geingob",
+            "fechaDeAsunción": "2015",
+            "partido": "SWAPO"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más practicado en Namibia."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg",
+            "descripcion": "Bandera de Namibia con un diseño diagonal azul, rojo y verde, con un sol en el cuadrante azul."
+        }
+    },
+    {
+        "nombre": "Nauru",
+        "codigoDeLlamada": "+674",
+        "capital": "Yaren (de facto)",
+        "ciudadesImportantes": [
+            "Yaren",
+            "Aiwo",
+            "Anabar",
+            "Buada"
+        ],
+        "region": "Oceanía",
+        "subRegion": "Micronesia",
+        "poblacion": 10834,
+        "gentilicio": "nauruano/a",
+        "zonaHoraria": "UTC+12",
+        "fronteras": [],
+        "nombreNativo": "Nauru",
+        "codigoNumerico": "520",
+        "moneda": "Dólar australiano",
+        "idiomas": [
+            "Nauruano",
+            "Inglés"
+        ],
+        "independencia": {
+            "fecha": "31 de enero de 1968",
+            "detalles": "Independencia de Australia."
+        },
+        "presidente": {
+            "nombre": "Russ Kun",
+            "fechaDeAsunción": "2022",
+            "partido": "Independiente"
+        },
+        "deporte": {
+            "deportePopular": "Levantamiento de pesas",
+            "detalles": "Levantamiento de pesas es un deporte popular debido a su éxito en competiciones internacionales."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
+            "descripcion": "Bandera de Nauru, con una franja azul y una línea amarilla horizontal, y una estrella blanca de 12 puntas en la parte inferior."
+        }
+    },
+    {
+        "nombre": "Nepal",
+        "codigoDeLlamada": "+977",
+        "capital": "Katmandú",
+        "ciudadesImportantes": [
+            "Katmandú",
+            "Pokhara",
+            "Lalitpur",
+            "Biratnagar"
+        ],
+        "region": "Asia",
+        "subRegion": "Asia del Sur",
+        "poblacion": 29136808,
+        "gentilicio": "nepalí",
+        "zonaHoraria": "UTC+5:45",
+        "fronteras": [
+            "China",
+            "India"
+        ],
+        "nombreNativo": "नेपाल (Nepāl)",
+        "codigoNumerico": "524",
+        "moneda": "Rupia nepalí",
+        "idiomas": [
+            "Nepalí"
+        ],
+        "independencia": {
+            "fecha": "Nunca colonizado; siempre independiente.",
+            "detalles": "Nepal es uno de los pocos países que nunca fue colonizado."
+        },
+        "presidente": {
+            "nombre": "Ram Chandra Poudel",
+            "fechaDeAsunción": "2023",
+            "partido": "Congreso Nepalí"
+        },
+        "deporte": {
+            "deportePopular": "Críquet",
+            "detalles": "El críquet es el deporte más popular en Nepal."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+            "descripcion": "La bandera de Nepal tiene dos triángulos superpuestos de color rojo bordeados en azul, con una luna y un sol en cada triángulo."
+        }
+    },
+    {
+        "nombre": "Nicaragua",
+        "codigoDeLlamada": "+505",
+        "capital": "Managua",
+        "ciudadesImportantes": [
+            "Managua",
+            "León",
+            "Granada",
+            "Masaya"
+        ],
+        "region": "América",
+        "subRegion": "América Central",
+        "poblacion": 6624554,
+        "gentilicio": "nicaragüense",
+        "zonaHoraria": "UTC-6",
+        "fronteras": [
+            "Honduras",
+            "Costa Rica"
+        ],
+        "nombreNativo": "Nicaragua",
+        "codigoNumerico": "558",
+        "moneda": "Córdoba nicaragüense",
+        "idiomas": [
+            "Español"
+        ],
+        "independencia": {
+            "fecha": "15 de septiembre de 1821",
+            "detalles": "Independencia de España junto con el resto de Centroamérica."
+        },
+        "presidente": {
+            "nombre": "Daniel Ortega",
+            "fechaDeAsunción": "2007",
+            "partido": "Frente Sandinista de Liberación Nacional"
+        },
+        "deporte": {
+            "deportePopular": "Béisbol",
+            "detalles": "El béisbol es el deporte más popular en Nicaragua."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+            "descripcion": "Bandera de Nicaragua, con tres franjas horizontales de azul y blanco, y el escudo nacional en el centro."
+        }
+    },
+    {
+        "nombre": "Níger",
+        "codigoDeLlamada": "+227",
+        "capital": "Niamey",
+        "ciudadesImportantes": [
+            "Niamey",
+            "Zinder",
+            "Maradi",
+            "Agadez"
+        ],
+        "region": "África",
+        "subRegion": "África Occidental",
+        "poblacion": 24206644,
+        "gentilicio": "nigerino/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": [
+            "Argelia",
+            "Chad",
+            "Libia",
+            "Mali",
+            "Nigeria",
+            "Burkina Faso",
+            "Benín"
+        ],
+        "nombreNativo": "Niger",
+        "codigoNumerico": "562",
+        "moneda": "Franco CFA de África Occidental",
+        "idiomas": [
+            "Francés"
+        ],
+        "independencia": {
+            "fecha": "3 de agosto de 1960",
+            "detalles": "Independencia de Francia."
+        },
+        "presidente": {
+            "nombre": "Mohamed Bazoum",
+            "fechaDeAsunción": "2021",
+            "partido": "Partido Nigerino para la Democracia y el Socialismo"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más practicado en Níger."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+            "descripcion": "Bandera de Níger con franjas horizontales de naranja, blanco y verde, y un círculo naranja en el centro."
+        }
+    },
+    {
+        "nombre": "Nigeria",
+        "codigoDeLlamada": "+234",
+        "capital": "Abuja",
+        "ciudadesImportantes": [
+            "Lagos",
+            "Abuja",
+            "Kano",
+            "Ibadan"
+        ],
+        "region": "África",
+        "subRegion": "África Occidental",
+        "poblacion": 213401323,
+        "gentilicio": "nigeriano/a",
+        "zonaHoraria": "UTC+1",
+        "fronteras": [
+            "Benín",
+            "Níger",
+            "Chad",
+            "Camerún"
+        ],
+        "nombreNativo": "Nigeria",
+        "codigoNumerico": "566",
+        "moneda": "Naira",
+        "idiomas": [
+            "Inglés"
+        ],
+        "independencia": {
+            "fecha": "1 de octubre de 1960",
+            "detalles": "Independencia del Reino Unido."
+        },
+        "presidente": {
+            "nombre": "Bola Tinubu",
+            "fechaDeAsunción": "2023",
+            "partido": "Congreso de Todos los Progresistas"
+        },
+        "deporte": {
+            "deportePopular": "Fútbol",
+            "detalles": "El fútbol es el deporte más practicado en Nigeria."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+            "descripcion": "Bandera de Nigeria con tres franjas verticales de verde y blanco."
+        }
+    },
+    {
+        "nombre": "Noruega",
+        "codigoDeLlamada": "+47",
+        "capital": "Oslo",
+        "ciudadesImportantes": [
+            "Oslo",
+            "Bergen",
+            "Trondheim",
+            "Stavanger"
+        ],
+        "region": "Europa",
+        "subRegion": "Europa del Norte",
+        "poblacion": 5406080,
+        "gentilicio": "noruego/a",
+        "zonaHoraria": "UTC+1 (CET), UTC+2 (CEST en verano)",
+        "fronteras": [
+            "Suecia",
+            "Finlandia",
+            "Rusia"
+        ],
+        "nombreNativo": "Norge",
+        "codigoNumerico": "578",
+        "moneda": "Corona noruega",
+        "idiomas": [
+            "Noruego"
+        ],
+        "independencia": {
+            "fecha": "7 de junio de 1905",
+            "detalles": "Disolución de la unión con Suecia."
+        },
+        "presidente": {
+            "nombre": "Jonas Gahr Støre",
+            "fechaDeAsunción": "2021",
+            "partido": "Partido Laborista"
+        },
+        "deporte": {
+            "deportePopular": "Esquí",
+            "detalles": "El esquí de fondo es uno de los deportes más populares en Noruega."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+            "descripcion": "Bandera de Noruega con fondo rojo, una cruz azul con bordes blancos."
+        }
+    },
+    {
+        "nombre": "Nueva Zelanda",
+        "codigoDeLlamada": "+64",
+        "capital": "Wellington",
+        "ciudadesImportantes": [
+            "Auckland",
+            "Wellington",
+            "Christchurch",
+            "Hamilton"
+        ],
+        "region": "Oceanía",
+        "subRegion": "Polinesia",
+        "poblacion": 5139300,
+        "gentilicio": "neozelandés/esa",
+        "zonaHoraria": "UTC+12 (NZST), UTC+13 (NZDT en verano)",
+        "fronteras": [],
+        "nombreNativo": "Aotearoa",
+        "codigoNumerico": "554",
+        "moneda": "Dólar neozelandés",
+        "idiomas": [
+            "Inglés",
+            "Maorí",
+            "Lengua de señas neozelandesa"
+        ],
+        "independencia": {
+            "fecha": "26 de septiembre de 1907",
+            "detalles": "Declarada dominio independiente del Imperio Británico."
+        },
+        "presidente": {
+            "nombre": "Chris Hipkins",
+            "fechaDeAsunción": "2023",
+            "partido": "Partido Laborista"
+        },
+        "deporte": {
+            "deportePopular": "Rugby",
+            "detalles": "El rugby es el deporte más practicado y famoso en Nueva Zelanda."
+        },
+        "bandera": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+            "descripcion": "Bandera de Nueva Zelanda con fondo azul y cuatro estrellas rojas con bordes blancos que representan la Cruz del Sur, y la bandera del Reino Unido en la esquina superior izquierda."
+        }
     }
+    
+    
+    
+    
+    
+    
+    
+    
 ]
